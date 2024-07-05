@@ -33,7 +33,7 @@
 
 /* Set a background color */
 			body {
-				background-image: linear-gradient(to top, rgba(246, 178, 107, 0.42), rgba(0, 0, 0, 0)), url("https://github.com/Nickyfan7/Nickyfan7.gihub.io/blob/main/images/t_background.png");
+				background-image: linear-gradient(to top, rgba(246, 178, 107, 0.42), rgba(0, 0, 0, 0)), url("images/t_background.png");
 				background-repeat: repeat;
 				background-attachment: fixed;
 				font-family: 'Barlow', sans-serif;
