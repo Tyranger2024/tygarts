@@ -114,7 +114,7 @@
 			transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 		}
 /*Download Buttons*/
-.btn {
+.download.btn {
   background-color: #F6B26B;
   border: none;
   color: white;
@@ -124,7 +124,7 @@
 }
 
 /* Darker background on mouse-over */
-.btn:hover {
+.download.btn:hover {
   background-color: #000000;
 }
 
