@@ -1,50 +1,49 @@
 <style>
-	/* Text Styles */
-		.logo{
-				font-size: 62px;
-				text-align: center;
-				color: white;
-			}
-		h1{
-				font-size: 62px;
-				text-align: center;
-				color: white;
-			}
-		h2,h3,h4,h5 {
-				text-align: left;
-				color: white;
-			}
-		p {
-				color: white;
-			}
-	/* Link Styles*/
-			a:link, a:visited, a:hover, a:active {
-				text-decoration: none;
-			}
-
-	/* Image Styles */
-			.tscreen img {
-				border-radius: 5%;
-				margin-right: 25px;
-			}
-			.logo {
-				border-radius: 15%;
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 11%;
-			}
-			.titleshot {
-				border-radius: 15%;
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-				width: 50%;
-			}
-			.smedia img {
-				border-radius: 5%;
-				margin-right: 25px;
-			}
+/* Text Styles */
+	.logo{
+		font-size: 62px;
+		text-align: center;
+		color: white;
+	}
+	h1{
+		font-size: 62px;
+		text-align: center;
+		color: white;
+	}
+	h2,h3,h4,h5 {
+		text-align: left;
+		color: white;
+	}
+	p {
+		color: white;
+	}
+/* Link Styles*/
+	a:link, a:visited, a:hover, a:active {
+		text-decoration: none;
+	}
+/* Image Styles */
+	.tscreen img {
+		border-radius: 5%;
+		margin-right: 25px;
+	}
+	.logo {
+		border-radius: 15%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 11%;
+	}
+	.titleshot {
+		border-radius: 15%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+	.smedia img {
+		border-radius: 5%;
+		margin-right: 25px;
+	}
 /* Box Styling */
 			* {
 				box-sizing: border-box;
@@ -78,7 +77,6 @@
 				background-size: 90%;
 				width: 52%;
 			}
-
 /* The actual content */	
 		.content {
 			padding: 20px 30px;
@@ -115,6 +113,20 @@
 		.content:hover {
 			transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 		}
+/*Download Buttons*/
+.btn {
+  background-color: #F6B26B;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #000000;
+}
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 	@media screen and (max-width: 600px) {
