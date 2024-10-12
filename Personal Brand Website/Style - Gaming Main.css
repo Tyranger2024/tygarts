@@ -1,0 +1,210 @@
+<style>
+	/* Text Styles */
+		h1{
+				font-size: 62px;
+				text-align: center;
+				color: white;
+			}
+		h2,h3,h4 {
+				text-align: center;
+				color: white;
+			}
+		p {
+				color: white;
+			}
+	/* Link Styles*/
+			a:link, a:visited, a:hover, a:active {
+				text-decoration: none;
+			}
+
+	/* Image Styles */
+			div.tscreen img {
+				border-radius: 5%;
+				margin-right: 25px;
+			}
+			div.smedia img {
+				border-radius: 5%;
+				margin-right: 25px;
+			}
+/* Box Styling */
+			* {
+				box-sizing: border-box;
+			}
+
+/* Set a background color */
+			body {
+				background-image: linear-gradient(to top, rgba(246, 178, 107, 0.42), rgba(0, 0, 0, 0)), url(images/t_background.png);
+				background-repeat: repeat;
+				background-attachment: fixed;
+				font-family: 'Barlow', sans-serif;
+			}
+			#grad {
+				background-image: linear-gradient(to right, red , yellow);
+			}
+
+/* Container around content */
+			.container {
+				padding: 10px 40px;
+				margin: 0 auto;
+				position: relative;
+				background-color: inherit;
+				width: 55%;
+			}
+/* Chead Clone Code */
+		.chead1,.chead2,.chead3,.chead4,.chead5,.chead6,.chead7 {
+				padding: 10px 40px;
+				margin: 0 auto;
+				position: relative;
+				background-color: inherit;
+				background-size: 90%;
+				width: 52%;
+			}
+
+/* The actual content */	
+		.content {
+			padding: 20px 30px;
+			background-color: #777777;
+			transition: transform .2s; /* Animation */
+			position: relative;
+			border-radius: 6px;
+		}
+		.contenths{
+			padding: 5px 10px;
+			background-size: 967px; 
+			background-position: center;
+			position: relative;
+			border-radius: 6px;
+		}
+		.contenths h2 {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		.contenths img{
+			margin-right: 7px;
+		}
+		.content2 {
+			padding: 20px 30px;
+			background-color: #333333;
+			position: relative;
+			border-radius: 6px;
+		}
+		.content3 {
+			padding: 20px 30px;
+			position: relative;
+			border-radius: 6px;
+		}
+		.content:hover {
+			transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+		}
+		.chead1{
+			background-image: linear-gradient(to bottom, rgba(228, 0, 15, 1.52), rgba(0, 0, 0, 0)), url(https://cdn2.steamgriddb.com/hero/47ada5281a1923e8f0a7c0700e7957c9.png);
+			background-size: 100%;
+			background-position: center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.chead2{
+			background-image: linear-gradient(to bottom, rgba(0, 0, 252, 0.52), rgba(0, 0, 0, 0)), url(https://cdn2.steamgriddb.com/hero/0dc5fdbc98f80f9aaf2b43b8bc795ea8.png); 
+			background-size: 100%;
+			background-position: center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.chead3{
+			background-image: linear-gradient(to bottom, rgba(0, 0, 252, 0.52), rgba(0, 0, 0, 0)), url(https://cdn2.steamgriddb.com/hero/86158a6b3924670a32dad65bbc41bd95.png); 
+			background-size: 80%;
+			background-position: bottom center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.chead4{
+			background-image: linear-gradient(to bottom, rgba(222, 108, 0, 0.82), rgba(0, 0, 0, 0)), url(https://cdn.mobygames.com/screenshots/15734964-mega-man-2-nes-metal-mans-stage.png); 
+			background-size: 100%;
+			background-position: center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.chead5{
+			background-image: linear-gradient(to bottom, rgba(222, 108, 0, 0.82), rgba(0, 0, 0, 0)), url(https://lutris.net/media/games/screenshots/mmu3.png);  
+			background-size: 80%;
+			background-position: center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.chead6{
+			background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0)), url(https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/07/indie-games.jpg);
+			background-size: 100%;
+			background-position: center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.chead7{
+			background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0)), url(https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/07/indie-games.jpg);
+			background-size: 100%;
+			background-position: center;
+			border-radius: 8px;
+			padding: 5px 10px;
+		}
+		.cheadbase{
+			background-color: red;
+			width: 30%;
+			margin: 0 auto;
+			border-radius: 8px;
+		}
+		.cheadbase h2{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		.cheadbase img{
+			margin-right: 7px;
+		}
+		
+	/*Tabs*/
+		.tab {
+			margin: 0 auto;
+			width: 50%;
+			overflow: hidden;
+			border: none;
+		}
+	/* Style the buttons that are used to open the tab content */
+		.tab button {
+			background-color: #777777;
+			color: white;
+			border-radius: 5px;
+			float: left;
+			cursor: pointer;
+			padding: 14px 16px;
+			transition: 0.3s;
+		}
+
+	/* Change background color of buttons on hover */
+		.tab button:hover {
+			background-color: #555555;
+		}
+
+	/* Create an active/current tablink class */
+		.tab button.active {
+			background-color: #555555;
+		}
+
+	/* Style the tab content */
+		.tabcontent {
+			display: none;
+			padding: 6px 12px;
+			border: none;
+			border-top: none;
+		}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+	@media screen and (max-width: 600px) {
+	/* Place the timelime to the left */
+	/* Full-width containers */
+	.container {
+		width: 100%;
+		padding-left: 70px;
+		padding-right: 25px;
+	}
+}
+</style>
