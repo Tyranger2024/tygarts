@@ -13,7 +13,7 @@
 
 	/* Set a background color */
 	body {
-		background-image: linear-gradient(to top, rgba(0, 0, 107, 0.42), rgba(255, 188, 98, 0.42)), url("images/SBTT TLBG.png");
+		background-image: linear-gradient(to top, rgba(0, 0, 107, 0.42), rgba(255, 188, 98, 0.42)), url("images/bgs/SBTT TLBG.png");
 		background-repeat: tiled;
 		background-attachment: fixed;
 		font-family: 'Barlow', sans-serif;
