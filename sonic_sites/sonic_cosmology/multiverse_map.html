@@ -1,0 +1,355 @@
+<!--DOCTYPE HTML-->
+<html>
+<!--HEAD-->
+<head>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+		@font-face {font-family: kimberley; src: url("fonts/kimberleybl.otf");}
+	</style>
+ <link rel ="stylesheet" href="s_multiverse.css">
+ <script src="jquery-3.7.1.min.js"></script>
+</head>
+<!--BODY-->
+<body>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<div class="map" id = "universes">
+		<div class ="related">
+			<div class ="container" id ="misccameos"><img src="main_images/ring_gates/rg_misccameos.png"/></div>
+			<div class ="container" id ="undersonic"><img src="main_images/ring_gates/rg_undergroundsonic.png"/></div>
+			<div class ="container" id ="presgwsonic"><img src="main_images/ring_gates/rg_presgwarchie.png"/></div>
+			<div class ="container" id ="adventuressonic"><img src="main_images/ring_gates/rg_adventuressonic.png"/></div>
+		</div>
+		<div class ="linked">
+			<div class ="core">
+				<div class ="container" id ="segasonic"><a href="universes/universe_segasonic/universe_segasonic.html"><img src="main_images/ring_gates/rg_segasonic.png"/></a></div>
+				<div class ="container" id ="sonicx"><img src="main_images/ring_gates/rg_sonicx.png"/></div>
+			</div>
+			<div class ="container" id ="parasonic"><a href ="universes/universe_parasonic/universe_parasonic.html"><img src="main_images/ring_gates/rg_parasonic.png"/></a></div>
+			<div class ="container" id ="fanon"><img src="main_images/ring_gates/mm_fanon.png"/></div>
+			<div class ="container" id ="exesonic"><a href ="universes/universe_exesonic/universe_exesonic.html"><img src="main_images/ring_gates/rg_sonicexe.png"/></a></div>
+			<div class ="container" id ="shogakusonic"><img src="main_images/ring_gates/rg_shogakusonic.png"/></div>
+			<div class ="container" id ="noncanon"><img src="main_images/ring_gates/rg_noncanon.png"/></div>
+			<div class ="container" id ="ovasonic"><img src="main_images/ring_gates/rg_ovasonic.png"/></div>
+			<div class ="container" id ="mariosonic"><img src="main_images/ring_gates/rg_mario&sonic.png"/></div>
+			<div class ="container" id ="fleetwaysonic"><img src="main_images/ring_gates/rg_fleetwaysonic.png"/></div>
+			<div class ="container" id ="segacameos"><img src="main_images/ring_gates/rg_segacameos.png"/></div>
+			<div class ="container" id ="satamsonic"><img src="main_images/ring_gates/rg_satamsonic.png"/></div>
+			<div class ="container" id ="smashbros"><img src="main_images/ring_gates/rg_smashbros.png"/></div>
+			<div class ="container" id ="aosthsonic"><img src="main_images/ring_gates/rg_aosthsonic.png"/></div>
+			<div class ="container" id ="legosonic"><img src="main_images/ring_gates/rg_legosonic.png"/></div>
+			<div class ="container" id ="dnssonic"><img src="main_images/ring_gates/rg_dnssonic.png"/></div>
+			<div class ="container" id ="boomsonic"><img src="main_images/ring_gates/rg_boomsonic.png"/></div>
+			<div class ="container" id ="postsgwsonic"><img src="main_images/ring_gates/rg_postsgwarchie.png"/></div>
+			<div class ="container" id ="sgw"><img src="main_images/ring_gates/rg_sgw.png"/></div>
+		</div>
+		<img id ="orbit" src="main_images/bg_mvrings3.png"/>
+	</div>
+	<audio id ="segasound" src="hover_audio/u_segasonic.mp4"></audio><br/>
+	<audio id ="xsound" src="hover_audio/u_sonicx.mp3"></audio><br/>
+	<audio id ="parasound" src="hover_audio/u_parasonic.mp4"></audio><br/>
+	<audio id ="fansound" src="hover_audio/u_fanon.mp4"></audio><br/>
+	<audio id ="shogasound" src="hover_audio/u_shogasonic.wav"></audio><br/>
+	<audio id ="nonsound" src="hover_audio/u_noncanon.mp3"></audio><br/>
+	<audio id ="ovasound" src="hover_audio/u_ovasonic.mp3"></audio><br/>
+	<audio id ="mariosound" src="hover_audio/u_mariosonic.wav"></audio><br/>
+	<audio id ="fleetsound" src="hover_audio/u_fleetwaysonic.wav"></audio><br/>
+	<audio id ="cameosound1" src="hover_audio/u_segacameos.wav"></audio><br/>
+	<audio id ="satamsound" src="hover_audio/u_satamsonic.mp3"></audio><br/>
+	<audio id ="smashsound" src="hover_audio/u_smashbros.mp3"></audio><br/>
+	<audio id ="aosthsound" src="hover_audio/u_aosth.wav"></audio><br/>
+	<audio id ="legosound" src="hover_audio/u_legosonic.wav"></audio><br/>
+	<audio id ="postsgwsound" src="hover_audio/u_postsgwsonic.mp3"></audio><br/>
+	<audio id ="dnssound" src="hover_audio/u_dnssonic.wav"></audio><br/>
+	<audio id ="exesound" src="hover_audio/u_sonicexe.mp4"></audio><br/>
+	<audio id ="boomsound" src="hover_audio/u_boomsonic.wav"></audio><br/>
+	<audio id ="miscsound" src="hover_audio/u_misccameos.mp3"></audio><br/>
+	<audio id ="presgwsound" src="hover_audio/u_presgwsonic.mp4"></audio><br/>
+	<audio id ="undersound" src="hover_audio/u_underground.mp3"></audio><br/>
+	<audio id ="adventsound" src="hover_audio/u_adventuressonic.mp4"></audio><br/>
+	<audio id ="sgwsound" src="hover_audio/u_sgw.mp4"></audio><br/>
+	<script>
+		var vid = document.getElementById("segasound");
+		vid.volume = 0.6; 
+		////////*LINKED UNIVERSES*///////
+		/*Audio 1 - SegaSonic*/
+		var audio = $("#segasound")[0];
+			$("#segasonic").mouseenter(function() {
+					audio.play();
+					audio.loop = true;
+				});
+			$("#segasonic").mouseleave(function() {
+					audio.currentTime = 0
+					audio.pause();
+				});
+		/*Audio 2 - Sonic X*/
+		var vid = document.getElementById("xsound");
+		vid.volume = 0.3; 
+		var audio2 = $("#xsound")[0];
+			$("#sonicx").mouseenter(function() {
+				audio2.play();
+				audio2.loop = true;
+			});
+			$("#sonicx").mouseleave(function() {
+				audio2.currentTime = 0
+				audio2.pause();
+			});
+		/*Audio 3 - Paramount Sonic*/
+		var vid = document.getElementById("parasound");
+		vid.volume = 0.3; 
+		var audio3 = $("#parasound")[0];
+			$("#parasonic").mouseenter(function() {
+				audio3.play();
+				audio3.loop = false;
+			});
+			$("#parasonic").mouseleave(function() {
+				audio3.currentTime = 0
+				audio3.pause();
+			});
+		/*Audio 4 - Fanon*/
+		var vid = document.getElementById("fansound");
+		vid.volume = 0.3; 
+		var audio4 = $("#fansound")[0];
+			$("#fanon").mouseenter(function() {
+				audio4.play();
+			});
+			$("#fanon").mouseleave(function() {
+				audio4.currentTime = 0
+				audio4.pause();
+			});
+		/*Audio 5 - Sonic.exe*/
+		var vid = document.getElementById("exesound");
+		vid.volume = 0.2; 
+		var audio5 = $("#exesound")[0];
+			$("#exesonic").mouseenter(function() {
+				audio5.play();
+			});
+			$("#exesonic").mouseleave(function() {
+				audio5.currentTime = 0
+				audio5.pause();
+			});
+		/*Audio 6 - Shogakukan Sonic*/
+		var vid = document.getElementById("shogasound");
+		vid.volume = 0.3; 
+		var audio6 = $("#shogasound")[0];
+			$("#shogakusonic").mouseenter(function() {
+				audio6.play();
+			});
+			$("#shogakusonic").mouseleave(function() {
+				audio6.currentTime = 0
+				audio6.pause();
+			});
+		/*Audio 7 - Shogakukan Sonic*/
+		var vid = document.getElementById("boomsound");
+		vid.volume = 0.5; 
+		var audio7 = $("#shogasound")[0];
+			$("#shogakusonic").mouseenter(function() {
+				audio7.play();
+			});
+			$("#shogakusonic").mouseleave(function() {
+				audio7.currentTime = 0
+				audio7.pause();
+			});
+		/*Audio 8 - Non-Canon*/
+		var vid = document.getElementById("nonsound");
+		vid.volume = 0.5; 
+		var audio8 = $("#nonsound")[0];
+			$("#noncanon").mouseenter(function() {
+				audio8.play();
+			});
+			$("#noncanon").mouseleave(function() {
+				audio8.currentTime = 0
+				audio8.pause();
+			});
+		/*Audio 9 - OVA Sonic*/
+		var vid = document.getElementById("ovasound");
+		vid.volume = 0.7; 
+		var audio9 = $("#ovasound")[0];
+			$("#ovasonic").mouseenter(function() {
+				audio9.play();
+			});
+			$("#ovasonic").mouseleave(function() {
+				audio9.currentTime = 0
+				audio9.pause();
+			});
+		/*Audio 10 - Mario & Sonic*/
+		var vid = document.getElementById("mariosound");
+		vid.volume = 0.2; 
+		var audio10 = $("#mariosound")[0];
+			$("#mariosonic").mouseenter(function() {
+				audio10.play();
+			});
+			$("#mariosonic").mouseleave(function() {
+				audio10.currentTime = 0
+				audio10.pause();
+			});
+		/*Audio 11 - Fleetway Sonic*/
+		var vid = document.getElementById("fleetsound");
+		vid.volume = 0.4; 
+		var audio11 = $("#fleetsound")[0];
+			$("#fleetwaysonic").mouseenter(function() {
+				audio11.play();
+			});
+			$("#fleetwaysonic").mouseleave(function() {
+				audio11.currentTime = 0
+				audio11.pause();
+			});
+		/*Audio 12 - SEGA Cameos*/
+		var vid = document.getElementById("cameosound1");
+		vid.volume = 0.4; 
+		var audio12 = $("#cameosound1")[0];
+			$("#segacameos").mouseenter(function() {
+				audio12.play();
+			});
+			$("#segacameos").mouseleave(function() {
+				audio12.currentTime = 0
+				audio12.pause();
+			});
+		/*Audio 13 - SatAM*/
+		var vid = document.getElementById("satamsound");
+		vid.volume = 0.4; 
+		var audio13 = $("#satamsound")[0];
+			$("#satamsonic").mouseenter(function() {
+				audio13.play();
+			});
+			$("#satamsonic").mouseleave(function() {
+				audio13.currentTime = 0
+				audio13.pause();
+			});
+		/*Audio 14 - Super Smash Bros*/
+		var vid = document.getElementById("smashsound");
+		vid.volume = 0.2; 
+		var audio14 = $("#smashsound")[0];
+			$("#smashbros").mouseenter(function() {
+				audio14.play();
+			});
+			$("#smashbros").mouseleave(function() {
+				audio14.currentTime = 0
+				audio14.pause();
+			});
+		/*Audio 15 - The Adventures of Sonic the Hedgehog*/
+		var vid = document.getElementById("aosthsound");
+		vid.volume = 0.4; 
+		var audio15 = $("#aosthsound")[0];
+			$("#aosthsonic").mouseenter(function() {
+				audio15.play();
+			});
+			$("#aosthsonic").mouseleave(function() {
+				audio15.currentTime = 0
+				audio15.pause();
+			});
+		/*Audio 16 - LEGO Sonic the Hedgehog*/
+		var vid = document.getElementById("legosound");
+		vid.volume = 0.3; 
+		var audio16 = $("#legosound")[0];
+			$("#legosonic").mouseenter(function() {
+				audio16.play();
+			});
+			$("#legosonic").mouseleave(function() {
+				audio16.currentTime = 0
+				audio16.pause();
+			});
+		/*Audio 17 - Dash & Spin Sonic*/
+		var vid = document.getElementById("dnssound");
+		vid.volume = 0.3; 
+		var audio17 = $("#dnssound")[0];
+			$("#dnssonic").mouseenter(function() {
+				audio17.play();
+			});
+			$("#dnssonic").mouseleave(function() {
+				audio17.currentTime = 0
+				audio17.pause();
+			});
+		/*Audio 18 - Post-SGW Archie*/
+		var vid = document.getElementById("postsgwsound");
+		vid.volume = 0.3; 
+		var audio18 = $("#postsgwsound")[0];
+			$("#postsgwsonic").mouseenter(function() {
+				audio18.play();
+			});
+			$("#postsgwsonic").mouseleave(function() {
+				audio18.currentTime = 0
+				audio18.pause();
+			});
+		/*Audio 19 - Sonic Boom*/
+		var vid = document.getElementById("boomsound");
+		vid.volume = 0.5; 
+		var audio19 = $("#boomsound")[0];
+			$("#boomsonic").mouseenter(function() {
+				audio19.play();
+			});
+			$("#boomsonic").mouseleave(function() {
+				audio19.currentTime = 0
+				audio19.pause();
+			});
+		////////*LINKED UNIVERSES*///////
+		/*Audio 21 - Misc Cameos*/
+		var vid = document.getElementById("miscsound");
+		vid.volume = 0.4; 
+		var audio21 = $("#miscsound")[0];
+			$("#misccameos").mouseenter(function() {
+				audio21.play();
+			});
+			$("#misccameos").mouseleave(function() {
+				audio21.currentTime = 0
+				audio21.pause();
+			});
+		/*Audio 22 - Super Genesis Wave*/
+		var vid = document.getElementById("sgwsound");
+		vid.volume = 0.3; 
+		var audio22 = $("#sgwsound")[0];
+			$("#sgw").mouseenter(function() {
+				audio22.play();
+			});
+			$("#sgw").mouseleave(function() {
+				audio22.currentTime = 0
+				audio22.pause();
+			});
+		/*Audio 23 - Pre-SGW Archie Sonic*/
+		var vid = document.getElementById("presgwsound");
+		vid.volume = 0.3; 
+		var audio23 = $("#presgwsound")[0];
+			$("#presgwsonic").mouseenter(function() {
+				audio23.play();
+			});
+			$("#presgwsonic").mouseleave(function() {
+				audio23.currentTime = 0
+				audio23.pause();
+			});
+		/*Audio 24 - Sonic Underground*/
+		var vid = document.getElementById("undersound");
+		vid.volume = 0.4; 
+		var audio24 = $("#undersound")[0];
+			$("#undersonic").mouseenter(function() {
+				audio24.play();
+			});
+			$("#undersonic").mouseleave(function() {
+				audio24.currentTime = 0
+				audio24.pause();
+			});
+		/*Audio 25 - Sonic Adventures*/
+		var vid = document.getElementById("adventsound");
+		vid.volume = 0.4; 
+		var audio25 = $("#adventsound")[0];
+			$("#adventuressonic").mouseenter(function() {
+				audio25.play();
+			});
+			$("#adventuressonic").mouseleave(function() {
+				audio25.currentTime = 0
+				audio25.pause();
+			});
+   </script>
+</body>
+</html>

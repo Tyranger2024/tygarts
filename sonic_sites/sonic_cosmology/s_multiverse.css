@@ -1,0 +1,231 @@
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+	@font-face {font-family: kimberley; src: url("fonts/kimberleybl.otf");}
+	h1, h2, h2, h3, h4, h5, h6, hr {
+		color: white;
+		font-family: kimberley;
+		text-align: center;
+	}
+	p, ul {
+		color: white;
+		font-family: 'nunito', sans-serif;
+	}
+	* {
+		box-sizing: border-box;
+	}
+	/* Set a background color */
+	body {
+		background-image: url('https://media.wired.com/photos/59268c83cfe0d93c474309b0/191:100/pass/BSP_HP.jpg');
+		background-size: 115%;
+		background-repeat: repeat;
+		background-attachment: fixed;
+		width: 100%
+	}
+	.map {
+		width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#orbit {
+		width: 100%;
+	}
+	.oval {
+                background: #a84909;
+                border-radius: 50px;
+    }
+	.container {
+        max-width: 490px;
+        max-height: 490px;
+        /*border: 1px solid #000;*/
+    }
+	/*LINKED UNIVERSES*/
+	.container#segasonic {
+		position: absolute;
+		top: 779;
+		left: 750;
+		transition: transform .2s; /* Animation */
+	}
+	#segasonic img {
+		width: 275px;
+	}
+	.container#sonicx {
+		position: absolute;
+		top: 837;
+		left: 932;
+		transition: transform .2s; /* Animation */
+	}
+	#sonicx img {
+		max-width: 490px;
+		width: 160px;
+	}
+	.container#parasonic {
+		position: absolute;
+		top: 950;
+		left: 379;
+		transition: transform .2s; /* Animation */
+	}
+	.container#fanon {
+		position: absolute;
+		top: 786;
+		left: 369;
+		transition: transform .2s; /* Animation */
+	}
+	.container#exesonic {
+		position: absolute;
+		top: 800;
+		left: 459;
+		transition: transform .2s; /* Animation */
+	}
+	.container#shogakusonic {
+		position: absolute;
+		top: 627;
+		left: 449;
+		transition: transform .2s; /* Animation */
+	}
+	.container#noncanon {
+		position: absolute;
+		top: 565;
+		left: 629;
+		transition: transform .2s; /* Animation */
+	}
+	.container#ovasonic {
+		position: absolute;
+		top: 517;
+		left: 780;
+		transition: transform .2s; /* Animation */
+	}
+	.container#mariosonic {
+		position: absolute;
+		top: 550;
+		left: 959;
+		transition: transform .2s; /* Animation */
+	}
+	.container#fleetwaysonic {
+		position: absolute;
+		top: 580;
+		left: 1109;
+		transition: transform .2s; /* Animation */
+	}
+	.container#segacameos {
+		position: absolute;
+		top: 655;
+		left: 1270;
+		transition: transform .2s; /* Animation */
+	}
+	.container#satamsonic {
+		position: absolute;
+		top: 768;
+		left: 1355;
+		transition: transform .2s; /* Animation */
+	}
+	.container#smashbros {
+		position: absolute;
+		top: 945;
+		left: 1340;
+		transition: transform .2s; /* Animation */
+	}
+	.container#aosthsonic {
+		position: absolute;
+		top: 1025;
+		left: 1210;
+		transition: transform .2s; /* Animation */
+	}
+	.container#legosonic {
+		position: absolute;
+		top: 1110;
+		left: 1085;
+		transition: transform .2s; /* Animation */
+	}
+	.container#dnssonic {
+		position: absolute;
+		top: 1116;
+		left: 900;
+		transition: transform .2s; /* Animation */
+	}
+	.container#postsgwsonic {
+		position: absolute;
+		top: 1110;
+		left: 730;
+		transition: transform .2s; /* Animation */
+	}
+	.container#boomsonic {
+		position: absolute;
+		top: 1096;
+		left: 630;
+		transition: transform .2s; /* Animation */
+	}
+	.container#sgw {
+		position: absolute;
+		top: 1199;
+		left: 1280;
+		transition: transform .2s; /* Animation */
+	}
+	/*Related Universes*/
+	.container#misccameos {
+		position: absolute;
+		top: 205;
+		left: 850;
+		transition: transform .2s; /* Animation */
+	}
+	.container#presgwsonic {
+		position: absolute;
+		top: 770;
+		left: 1489;
+		transition: transform .2s; /* Animation */
+	}
+	.container#undersonic {
+		position: absolute;
+		top: 659;
+		left: 1459;
+		transition: transform .2s; /* Animation */
+	}
+	.container#adventuressonic {
+		position: absolute;
+		top: 1480;
+		left: 855;
+		transition: transform .2s; /* Animation */
+	}
+	#parasonic img, #shogakusonic img, #ovasonic img, #fleetwaysonic img, #satamsonic img, #aosthsonic img, #dnssonic img, #postsgwsonic img, #boomsonic img, #presgwsonic img, #undersonic img, #adventuressonic img, #misccameos img {
+		width: 175px;
+	}
+	#fanon img, #noncanon img, #mariosonic img, #segacameos img, #smashbros img, #legosonic img, #sgw img{
+		width: 145px;
+	}
+	#exesonic img {
+		width: 110px;
+	}
+	#segasonic:hover, 
+	#sonicx:hover, 
+	#parasonic:hover, 
+	#fanon:hover,
+	#shogakusonic:hover, 
+	#noncanon:hover, 
+	#ovasonic:hover, 
+	#mariosonic:hover, 
+	#fleetwaysonic:hover, 
+	#segacameos:hover, 
+	#satamsonic:hover,#smashbros:hover,
+	#aosthsonic:hover,
+	#legosonic:hover,
+	#dnssonic:hover,
+	#postsgwsonic:hover,
+	#boomsonic:hover,
+	#exesonic:hover,
+	#misccameos:hover,
+	#presgwsonic:hover,
+	#undersonic:hover,
+	#adventuressonic:hover,
+	#sgw:hover
+	
+	{
+		transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+	}
+	/*Buttons with Animation*/	
+		.button {
+			padding: 20px 20px;
+			transition: transform .2s; /* Animation */
+			position: relative;
+			border-radius: 20px;
+		}
+}

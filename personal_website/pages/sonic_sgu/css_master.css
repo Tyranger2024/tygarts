@@ -1,0 +1,256 @@
+<style id = "gp_page">
+	/*===========IMPORT FONTS===========*/
+		@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+	/*Text*/
+		h1, h2, h3, h4, p {
+				font-family: oswald;
+				text-align: center;
+				color: white;
+		}
+		a:link, a:visited, a:hover, a:active {
+			text-decoration: none;
+		}
+		
+/*===========NAVIGATION BAR===========*/
+	/*Navbar and Navbar Container*/
+	.navbar {
+	  overflow: hidden;
+	  width: 38%;
+	  background-color: rgba (0,0,0,0);
+	}
+	/* Links inside the navbar */
+	.navbar a {
+	  float: left;
+	  font-size: 16px;
+	  color: white;
+	  text-align: center;
+	  text-decoration: none;
+	}
+	/* The dropdown container */
+	.dropdown {
+	  float: left;
+	  overflow: hidden;
+	}
+	/* Dropdown button */
+	.dropdown .dropbtn {
+	  border: none;
+	  outline: none;
+	  color: white;
+	  background-color: inherit;
+	  font-family: inherit; /* Important for vertical align on mobile phones */
+	  margin: 0; /* Important for vertical align on mobile phones */
+	}
+	/* Dropdown content (hidden by default) */
+	.dropdown-content {
+	  display: none;
+	  position: absolute;
+	  background-color: rgba(249,249,249,0.5);
+	  min-width: 190px;
+	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	  z-index: 1;
+	}
+	/* Links inside the dropdown */
+	.dropdown-content a {
+	  float: none;
+	  color: black;
+	  text-decoration: none;
+	  display: block;
+	  text-align: left;
+	}
+	/* Add a grey background color to dropdown links on hover */
+	.dropdown-content:hover {
+	  background-color: #ddd;
+	}
+	/* Show the dropdown menu on hover */
+	.dropdown:hover .dropdown-content {
+	  display: block;
+	}
+	/*Buttons in the Navbar*/
+	.home {
+		width: 120px;
+		height: 47px;
+		margin: 1px;
+		background-image: url("images/resources/navbar/home_i.png");
+		background-repeat: no-repeat;
+		background-size: 120%;
+		transition: all 0.5s ease;
+	}
+	.home:hover {
+		background-image: url("images/resources/navbar/home_h.png");
+	}
+	.characters {
+		width: 165px;
+		height: 47px;
+		margin: 1px;
+		background-image: url("images/resources/navbar/characters_i.png");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		transition: all 0.5s ease;
+	}
+	.characters:hover {
+		background-image: url("images/resources/navbar/characters_h.png");
+	}
+	.portfolio {
+		width: 135px;
+		height: 45px;
+		margin: 1px;
+		margin-left: 11px;
+		background-image: url("images/resources/navbar/portfolio_i.png");
+		background-repeat: no-repeat;
+		background-size: 100%;
+		transition: all 0.5s ease;
+	}
+	.portfolio:hover {
+		background-image: url("images/resources/navbar/portfolio_h.png");
+	}
+	.games {
+		width: 134px;
+		height: 46px;
+		margin: 1px;
+		margin-left: 11px;
+		background-image: url("images/resources/navbar/games_i.png");
+		background-repeat: no-repeat;
+		background-size: 107%;
+		transition: all 0.5s ease;
+	}
+	.games:hover {
+		background-image: url("images/resources/navbar/games_h.png");
+	}
+	.blog {
+		width: 119px;
+		height: 46px;
+		margin-top: 10px;
+		margin-left: 13px;
+		background-image: url("images/resources/navbar/blog_i.png");
+		background-repeat: no-repeat;
+		background-size: 79%;
+		transition: all 0.5s ease;
+	}
+	.blog:hover {
+		background-image: url("images/resources/navbar/blog_h.png");
+	}
+	.links {
+		width: 119px;
+		height: 46px;
+		margin-top: 10px;
+		margin-left: -2px;
+		background-image: url("images/resources/navbar/links_i.png");
+		background-repeat: no-repeat;
+		background-size: 79%;
+		transition: all 0.5s ease;
+	}
+	.links:hover {
+		background-image: url("images/resources/navbar/links_h.png");
+	}
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.t1 {
+		margin-left: auto;
+		margin-right: auto;
+	}
+/*===========MAIN PAGE & ELEMENTS===========*/	
+	/* Background */
+	body {
+		background-image: linear-gradient(to top, rgba(246, 178, 107, 0.42), rgba(0, 0, 0, 0)), url(images/resources/t_background.png);
+		background-repeat: repeat;
+		background-attachment: fixed;
+		font-family: 'Barlow', sans-serif;
+	}
+	#grad {
+		background-image: linear-gradient(to right, red , yellow);
+	}	
+	/* Images */
+	div.tscreen img {
+		border-radius: 5%;
+	}
+	/*Tables*/
+	table, th, td {
+		background-color: rgba(0,0,0,0);
+		border-radius: 10px;
+		text-align: center;
+	}
+	td{
+		width: 1%;
+	}
+	/*Background Overlay*/
+		.background {
+			left: 0px;
+			top: 0px;
+			width: 100%;
+			opacity: 0.2;
+			position: fixed;
+			z-index: -1;
+		}
+	/* Container (for content) */
+	.container {
+		padding: 10px 40px;
+		margin: 0 auto;
+		position: relative;
+		background-color: inherit;
+		width: 55%;
+	}
+	/* The actual content */	
+	.content {
+		padding: 20px 20px;
+		border-style: solid;
+		border-color:  #783f04;
+		background-color: #d97150;
+		/*background-color: #e69138;*/
+		position: relative;
+		border-radius: 20px;
+	}
+	.content2 {
+		padding: 20px 20px;
+		border-style: solid;
+		border-color:  #d97150;
+		background-color: #783f04; 
+		position: relative;
+		border-radius: 20px;
+	}
+	/* Buttons with Animation */	
+	.button {
+		padding: 20px 20px;
+		transition: transform .2s; /* Animation */
+		position: relative;
+		border-radius: 20px;
+	}
+	.button:hover {
+		transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+	}
+	/*Tabs*/
+		.tab {
+			margin: 0 auto;
+			width: 20%;
+			overflow: hidden;
+			border: none;
+		}
+	/* Style the buttons */
+		.tab button {
+			background-color: #777777;
+			color: white;
+			border-radius: 5px;
+			float: left;
+			cursor: pointer;
+			padding: 14px 16px;
+			transition: 0.3s;
+		}
+	/* Change background color of buttons */
+		.tab button:hover {
+			background-color: #555555;
+		}
+	/* Create an active/current tab class */
+		.tab button.active {
+			background-color: #555555;
+		}
+	/* Style the tab content */
+		.tabcontent {
+			display: none;
+			padding: 6px 12px;
+			border: none;
+			border-top: none;
+		}
+</style>
