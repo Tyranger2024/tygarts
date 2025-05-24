@@ -182,7 +182,7 @@
 	}
 	.container#adventuressonic {
 		position: absolute;
-		top: 1480;
+		top: 1448px;
 		left: 855;
 		transition: transform .2s; /* Animation */
 	}

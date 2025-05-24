@@ -23,6 +23,15 @@
 			text-align: center; 
 			color: #d97150;
 		}
+		.discord {
+			padding: 5px;
+			fill: #782904;
+			border-radius: 30%;
+		}
+		.discord:hover {
+			background: #782904;
+			fill: #d97150;
+		}
 	/*CATEGORY: PAGES - MAIN*/
 		html {
 			background-image: linear-gradient(to top, rgba(246, 178, 107, 0.42), rgba(0, 0, 0, 0)), url("assets/ui/bg/tb_background.png");
@@ -86,7 +95,16 @@
 		}
 		.navbar a {
 			color: #d97150;
+			fill: #d97150;
 			text-align: center;
+			text-decoration: none;
+		}
+		.navbar a:hover, .navicon:hover{
+			color: #782904;
+			fill: #782904;
+			background: #d97150;
+			padding: 10px;
+			border-radius: 5px;
 		}
 		#body {
 			grid-area: 1 / 5 / 1 / 3;
