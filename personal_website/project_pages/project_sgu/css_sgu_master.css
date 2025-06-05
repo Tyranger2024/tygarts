@@ -52,7 +52,7 @@
 			grid-area: 3 / 2 / 2 / 2;
 		}
 		.headder {
-			background-image: url("assets/banners/b_main/b_main_1.png");
+			background-image: url("assets/banners_logos/banners/b_main_1.png");
 			background-position: left 20%;
 			background-size: 100%;
 			background-position: center;
@@ -195,7 +195,27 @@
 			margin-left: auto;
 			margin-right: auto;
 		}
-	
+	/* Tab Button */
+	.tab-button {
+		background: #782904; /* Sonic gold */
+		border: 2px solid #d97150; /* Sonic blue border */
+		color: #d97150;
+		padding: 12px 20px;
+		cursor: pointer;
+		font-size: 18px;
+		border-radius: 8px;
+		transition: all 0.3s ease-in-out;
+	}
+	.tab-button:hover {
+		background: #FFA500; /* Slightly deeper gold */
+		box-shadow: 0 0 10px #FFD700;
+		transform: scale(1.1);
+	}
+	.tab-button:active {
+		background: #004EA6; /* Turns blue when clicked */
+		color: #FFD700;
+		box-shadow: 0 0 15px #004EA6;
+	}
 	/*CATEGORY: NAVBAR & BUTTONS*/
 		/* The dropdown container */
 		.dropdown {

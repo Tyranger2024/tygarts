@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonic Timeline</title>
+    <style>
+		@font-face{ 
+			font-family: 'ethnocentric';
+			src: url('../../assets/fonts/Ethnocentric Rg It.otf');
+		}
+		@font-face{ 
+			font-family: 'forgotten futurist';
+			src: url('../../assets/fonts/Forgotten Futurist Rg.otf');
+		}
+	   /* Apply uploaded background */
+        body {
+            font-family: 'forgotten futurist';
+            margin: 0;
+            padding: 0;
+            background-image: url("../../assets/ui/bg/tb_background.png"), linear-gradient(0deg, rgba(1,209,72,1) 16%, rgba(9,1,209,1) 54%);
+			background-blend-mode: screen;
+			background-repeat: repeat;
+			background-attachment: fixed;
+            display: flex;
+        }
+		h1, h2, h3, h4, h5, h6 {
+			font-family: 'ethnocentric';
+		}
+		.stars {
+			left: 0px;
+			top: 0px;
+			width: 100%;
+			opacity: 0.2;
+			position: fixed;
+			z-index: -1;
+		}
+        /* Sidebar styles */
+        .sidebar {
+            width: 250px;
+            height: 100vh;
+            background: rgba(0, 120, 215, 0.9); /* Semi-transparent to blend with the background */
+            color: white;
+            padding: 20px;
+            position: fixed;
+            left: -250px; /* Hidden initially */
+            transition: 0.3s;
+            backdrop-filter: blur(10px); /* Adds depth effect */
+        }
+        .sidebar h2 {
+            margin: 0 0 15px;
+        }
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            margin: 10px 0;
+        }
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 8px;
+            transition: 0.3s;
+            border-radius: 5px;
+        }
+        .sidebar a:hover {
+            background: rgba(255, 255, 255, 0.3); /* Subtle hover effect */
+        }
+        /* Toggle button styles */
+        .toggle-btn {
+            position: fixed;
+            left: 0;
+            top: 10px;
+            width: 40px;
+            height: 40px;
+            background: rgba(0, 120, 215, 0.9);
+            color: white;
+            border: none;
+            cursor: pointer;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            transition: 0.3s;
+            border-radius: 5px;
+        }
+        .toggle-btn:hover {
+            background: rgba(0, 90, 158, 0.9);
+        }
+        /* Timeline content */
+        .content {
+            margin-left: 20px;
+            padding: 20px;
+            flex-grow: 1;
+            color: white; /* Adjust text color for readability */
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Subtle text outline */
+        }
+        .timeline-section {
+			width: 70%; /* Reduced width */
+			padding: 10px;
+			margin: 20px auto; /* Center-align */
+			background-color: #3c78d8; /* User-requested background color */
+			border: 8px solid #163086; /* User-requested border */
+			border-radius: 10px;
+			box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+			backdrop-filter: blur(5px); /* Adds blending effect */
+			color: white; /* Ensuring readability */
+		}
+
+    </style>
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <div class="sidebar" id="sidebar">
+        <div style="text-align: center;"><img src="assets/banners_logos/logos/l_sgu2.png" width="40%"/></div>
+        <ul>
+            <h2>Pre-History Era</h2>
+			<li><a href="#starlander-last-stand">Starlanders Last Stand</a></li>
+			<h2>Classic Era</h2>
+			<li><a href="#sonic-comic-origins">Sonic Comic Origins</a></li>
+            <li><a href="#sonic-1991">Sonic Origins</a></li>
+			<li><a href="#sonic-1991">Sonic Origins</a></li>
+            <li><a href="#sonic-forces">Sonic Forces (2017)</a></li>
+            <li><a href="#sonic-frontiers">Sonic Frontiers (2022)</a></li>
+        </ul>
+    </div>
+
+    <!-- Toggle Button -->
+    <button class="toggle-btn" id="toggle-btn" onclick="toggleSidebar()">☰</button>
+
+    <!-- Timeline Content -->
+    <div class="content">
+        <div style="text-align: center;"><img src="assets/banners_logos/logos/l_sgu2.png" width="17%"/>
+		<div id="starlander-last-stand" class="timeline-section" style="text-align: center;">
+            <div><h2>The Starlanders' Last Stand</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/2/26/SonicFrontiers_Ancients_Planet_Explosion.png/revision/latest?cb=20221206212546" width="35%"/></div>
+			<p>The Starlanders once thrived on a distant world, their civilization built upon the limitless potential of Chaos Energy. But their ambition led them to an unwinnable war. From the abyss of the cosmos, a force known as The End arrived, consuming their planet in destruction. In desperation, the surviving Starlanders fled, escaping only as their world crumbled behind them. As they drifted through the void, the Chaos Emeralds sensed the presence of the Master Emerald on Mobius. Drawn to its power, the Emeralds led the Starlanders to the planet, offering them refuge. Yet, they knew safety would not last. The End would return, and they needed to prepare.</p>
+			<p>As they drifted through the void, the Chaos Emeralds sensed the presence of the Master Emerald on Mobius. Drawn to its power, the Emeralds led the Starlanders to the planet, offering them refuge. Yet, they knew safety would not last. The End would return, and they needed to prepare. Harnessing their knowledge, the Starlanders built Cyber Space—a dimensional sanctuary capable of containing The End. To defend their new home, they forged the mighty Titans, vessels of Chaos Energy, piloted by their greatest warriors. When The End came once more, the Titans rose to meet it in battle.</p>
+			<p>Despite their strength, they could not destroy it. In a final sacrifice, one pilot bound The End to their Titan, sealing it away within Cyber Space — at the cost of their own life. With time, exposure to Mobius’ energy altered them. Chaos Energy, once their lifeline, degraded their very DNA. Their forms shifted, twisted, until they became the small, peaceful creatures known as Chao. Their souls, unable to pass beyond, took new shape as the Koco — whispers of the Starlanders’ lost glory.</p>
+			<p>Though their civilization has faded, their legacy remains, buried in ruins, hidden in ancient technology, and woven into the very foundation of Mobius itself.</p>
+        </div>
+		<div id="first-time-of-awakening" class="timeline-section" style="text-align: center;">
+            <div><h2>First Recorded Time of Awakening</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/9/9c/Templeinteriorpictureadabat.png/revision/latest/scale-to-width-down/1000?cb=20120407201507" width="35%"/></div>
+			<p>Long before recorded history, the planet underwent a cycle of destruction and rebirth, dictated by two opposing forces—Dark Gaia and Light Gaia. As Dark Gaia emerged from the planet’s core, its chaotic energy shattered the world, plunging it into ruin. But from the devastation, Light Gaia awakened, restoring balance and healing the land. This eternal cycle repeated for millennia, shaping the very foundation of Mobius. Ancient civilizations, sensing the power of these forces, recorded their existence in sacred texts, later known as the Gaia Manuscripts.</p>
+			<p>These writings foretold the inevitable rise of Dark Gaia and the need for a hero to restore balance. Though the cycle remained hidden for generations, its effects lingered. The planet’s structure, its energy flow, and even the Chaos Emeralds themselves bore traces of this cosmic battle. When the time of awakening arrived once more, the world trembled, and history repeated.</p>
+        </div>
+		<div id="forgotten-civilizations" class="timeline-section" style="text-align: center;">
+            <div><h2>The Forgotten Civilizations</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/b/bd/Sonic_Channel_2021_Tanabata.jpg" width="35%"/></div>
+			<p>Throughout history, two ancient civilizations rose to prominence, each driven by their pursuit of absolute power. One sought to forge the ultimate weapon, while the other attempted to seize control of a force beyond their understanding. Both would face the consequences of their ambitions, leaving behind only ruins and the remnants of their legacy.</p>
+			<p>Long ago, an advanced race known as the Fourth Great Civilization sought to create the perfect weapon—a machine that could adapt to any battle and dominate all opponents. Their creation, the Gizoid, was programmed to catalog and mimic every ability it encountered, making it an unstoppable force. To ensure its obedience, the Gizoid required a Link with the strongest being in its presence, transferring its loyalty when a more powerful entity emerged.</p>
+			<p>But in a cruel twist of fate, the Gizoid turned against its creators. It conquered their entire civilization, driving them to extinction. With its purpose fulfilled, it remained dormant, surrounded only by the ruins of those who had built it. Though the Fourth Great Civilization faded into history, their ultimate creation would later resurface, its power still unmatched.</p>
+			<p>Thousands of years ago, the Echidna Tribe thrived in the Mystic Ruins, led by Chief Pachacamac. They sought to expand their rule by harnessing the power of the Chaos Emeralds and the legendary Master Emerald. In their greed, they attempted to seize the Emeralds for themselves, believing they would grant them supreme dominion.</p>
+			<p>But their ambition led to their downfall. The guardian of the Emeralds, Chaos, retaliated, unleashing its full fury upon the tribe. Their empire crumbled in an instant, nearly wiping out their entire people. The ruins of their once-great civilization remained, and only one descendant survived—Knuckles the Echidna, destined to guard the Master Emerald and ensure the mistakes of his ancestors would never be repeated.</p>
+			<p>Both civilizations, driven by ambition, met similar fates—one falling to its own creation, the other to the wrath of a guardian. Though their stories remain buried in history, their influence persists, shaping the world of Mobius in ways few truly understand.</p>
+        </div>
+		<div id="black-doom-sky-troops" class="timeline-section" style="text-align: center;">
+            <div><h2>Black Doom's Sky Troop Invasion</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/d/d0/Sky_Troops_cutscene.png/revision/latest/scale-to-width-down/1000?cb=20170426142207" width="35%"/></div>
+			<p>Thousands of years ago, Black Doom teleports the Sky Troops to Mobius to prepare for the Black Arms future Invasion.</p>
+		</div>
+		<div id="rise-of-deadly-six" class="timeline-section" style="text-align: center;">
+            <div><h2>The Rise of the Deadly Six</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/d/d0/Sky_Troops_cutscene.png/revision/latest/scale-to-width-down/1000?cb=20170426142207" width="35%"/></div>
+			<p>On the floating continent of Lost Hex, a powerful race known as the Zeti lived in isolation, their abilities tied to electromagnetic energy. Among them, Master Zik, an ancient warrior, saw potential in six individuals—Zavok, Zazz, Zeena, Zomom, Zor, and himself. He trained them in combat, strategy, and manipulation, forming a ruthless faction known as the Deadly Six.</p>
+			<p>Under Zik’s guidance, Zavok emerged as the strongest, eventually overthrowing his mentor and assuming leadership. With their combined strength, the Deadly Six sought dominion over Lost Hex, using their electromagnetic abilities to control machines and bend technology to their will.</p>
+			<p>Their existence remained hidden until Dr. Eggman discovered them, seeking to harness their power for his own conquest. Using the Cacophonic Conch, he enslaved them, forcing them to serve his empire. However, Sonic’s interference shattered Eggman’s control, allowing the Deadly Six to break free. With their newfound independence, they turned their wrath toward both Eggman and Sonic, threatening to reshape the world in their image.</p>
+			<p>Though defeated, their ambitions remain. The Deadly Six continue to lurk in the shadows, waiting for the moment to reclaim their power and unleash chaos upon Mobius once more.</p>
+		</div>
+		<div id="rise-of-deadly-six" class="timeline-section" style="text-align: center;">
+            <div><h2>The Sequential Births of Influence</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/d/d0/Sky_Troops_cutscene.png/revision/latest/scale-to-width-down/1000?cb=20170426142207" width="35%"/></div>
+			<p>Professor Pickle, Maria Robotnik, and Commander Abraham Towers are born. Professor Pickle would eventually go on to study the Gaia Manuscripts - meanwhile Maria would be forced to live on the Space Colony ARK due to Neuro-Immune Decficency Syndrome (NIDS) as the ARK's Low-Gravity Enviornment kept it in remission. Abraham Towers would eventually end up on the ARK.</p>
+		</div>
+		<div id="rise-of-deadly-six" class="timeline-section" style="text-align: center;">
+            <div><h2>The Sequential Births of Influence</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/d/d0/Sky_Troops_cutscene.png/revision/latest/scale-to-width-down/1000?cb=20170426142207" width="35%"/></div>
+			<p>Professor Pickle, Maria Robotnik, and Commander Abraham Towers are born. Professor Pickle would eventually go on to study the Gaia Manuscripts - meanwhile Maria would be forced to live on the Space Colony ARK due to Neuro-Immune Decficency Syndrome (NIDS) as the ARK's Low-Gravity Enviornment kept it in remission. Abraham Towers would eventually end up on the ARK.</p>
+		</div>
+		<div id="rise-of-deadly-six" class="timeline-section" style="text-align: center;">
+            <div><h2>Hope Before Disaster</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/d/d0/Sky_Troops_cutscene.png/revision/latest/scale-to-width-down/1000?cb=20170426142207" width="35%"/></div>
+			<p>Hope Robotnik is born prior to Project Shadow.</p>
+		</div>
+		<div id="rise-of-deadly-six" class="timeline-section" style="text-align: center;">
+            <div><h2>Project Shadow</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/4/48/SXSG_DB_Teaser11.png" width="35%"/></div>
+			<p>Project Shadow was a top-secret experiment led by Professor Gerald Robotnik aboard the Space Colony ARK, aiming to create the Ultimate Lifeform to achieve immortality. His first attempt, the Biolizard, was unstable, leading him to seek help from Black Doom, who provided DNA for the creation of Shadow the Hedgehog.</p>
+			<p>While Gerald hoped Shadow could cure Maria Robotnik’s illness, the United Federation grew suspicious of the project, fearing its potential dangers. This led G.U.N. to raid the ARK, executing all researchers and shutting down the facility. In the chaos, Maria was fatally shot by a G.U.N. soldier named Agent Black, but before dying, she sent Shadow to Earth, entrusting him with her dream of peace.</p>
+			<p>Gerald, devastated, reprogrammed Shadow with a doomsday plan to destroy humanity, but Shadow was later sealed away on Prison Island, setting the stage for his eventual awakening.</p>
+			<p>In the aftermath of the G.U.N. Raid, news of Maria’s death and Gerald Robotnik’s downfall spread, shaking Hope to her core. As she struggled to process the loss, she began to harbor a growing resentment toward G.U.N., viewing the world through a darker lens.</p>
+		</div>
+		<div id="hopeful-beginnings" class="timeline-section" style="text-align: center;">
+            <div><h2>Hopeful Beginnings: The Generation That Shaped the World</h2><br/><img src="../../main_images/artwork/character_collage.pngg" width="35%"/></div>
+			<ul>
+				<li>Vector the Crocodile – Future leader of the Chaotix Detective Agency.</li>
+				<li>Storm the Albatross – Powerful yet slow-witted enforcer of the Babylon Rogues.</li>
+				<li>Big the Cat – A gentle giant with a deep connection to nature.</li>
+				<li>Rouge the Bat – A cunning spy with loyalty hidden beneath her treasure-seeking nature.</li>
+				<li>Wave the Swallow – Technical genius of the Babylon Rogues.</li>
+				<li>Bark the Polar Bear – A quiet but strong fighter with deep endurance.</li>
+				<li>Princess Elise – Heir to Soleanna, tied to the Flames of Disaster.</li>
+				<li>Knuckles the Echidna – Sole guardian of the Master Emerald.</li>
+				<li>Espio the Chameleon – A skilled ninja with unmatched discipline.</li>
+				<li>Mighty the Armadillo – A wandering hero who values strength and freedom.</li>
+				<li>Sonic the Hedgehog (Born on Christmas Island) – The legendary speedster who will change the world.</li>
+				<li>Bean the Dynamite – Unpredictable chaos with explosive tendencies.</li>
+				<li>Blaze the Cat – Solemn and dutiful guardian of the Sol Emeralds.</li>
+				<li>Jet the Hawk – Leader of the Babylon Rogues, destined to challenge Sonic.</li>
+				<li>Amy Rose – A determined adventurer with unwavering spirit.</li>
+				<li>Miles "Tails" Prower – A mechanical prodigy and Sonic’s closest friend.</li>
+				<li>Marine the Raccoon – Energetic dreamer with ambitions beyond her world.</li>
+				<li>Cream the Rabbit – Sweet and innocent, yet braver than she appears.</li>
+				<li>Charmy Bee – A hyperactive troublemaker with untapped potential.</li>
+			</ul>
+		</div>
+		<div id="rise-of-deadly-six" class="timeline-section" style="text-align: center;">
+            <div><h2>The Solaris Project</h2><br/><img src="https://static.wikia.nocookie.net/sonic/images/3/34/Solaris_Project_In_Process.png" width="35%"/></div>
+			<p>Ten years ago, <strong>Duke Regis of Soleanna</strong> attempted to harness <strong>the power of Solaris</strong>, seeking a limitless energy source. However, the experiment <strong>went horribly wrong</strong>, splitting Solaris into <strong>Iblis, a force of destruction</strong>, and <strong>Mephiles, a manipulative entity</strong>.</p><p>To prevent catastrophe, Regis <strong>sealed Iblis within his daughter, Elise</strong>, while Mephiles <strong>escaped</strong>, plotting his return. Regis perished in the aftermath, leaving Elise unknowingly <strong>bound to Iblis</strong>, ensuring the disaster would remain contained—until events set in motion a decade later.</p>
+		</div>
+		<div id="sonic-origins" class="timeline-section" style="text-align: center;">
+            <div><img src="https://static.wikia.nocookie.net/sonic/images/2/2d/SonicComicOrigins.png/revision/latest?cb=20160112125833" width="30%"/><br/><img src="https://static.wikia.nocookie.net/sonic/images/e/e5/YoungFreedomFighters.PNG/revision/latest?cb=20161118231536" width="25%"/></div>
+			<p>Dr. Ivo Robotnik, later known as Eggman, was once a trusted scientist within the Acorn Kingdom. He betrayed King Acorn, using his technological advancements to stage a coup and take control of Mobotropolis. The city was soon transformed into Robotropolis, where citizens were enslaved through roboticization, stripping them of their free will.</p>
+			<p>In the aftermath of Robotnik’s takeover, Princess Sally Acorn became determined to fight back. Gathering a small group of rebels, she formed the Freedom Fighters. Her closest allies included Sonic the Hedgehog, Rotor the Walrus, Antoine D'Coolette, Bunnie D'Coolette, and Nicole the Holo-Lynx. Operating from Knothole Village, they launched strategic strikes against Robotnik’s empire, hoping to free their roboticized friends and reclaim their home.</p>
+			<p>Though Sonic’s speed gave the Freedom Fighters a significant advantage, they faced relentless opposition from Robotnik’s forces, including Swatbots and other mechanized threats. As their resistance grew, they gained allies such as Tails and Knuckles, solidifying their presence as Mobius' last line of defense against tyranny.</p>
+			<p>Despite their victories, Eggman’s influence continued to evolve, introducing new threats and warping reality itself. While the Freedom Fighters adapted to these ever-growing dangers, their mission remained the same—to restore freedom and justice to Mobius.</p>
+
+        </div>
+        <div id="sonic-x-shadow-generations" class="timeline-section" style="text-align: center;">
+           <div><img src="../../main_images/renders/classicsonic.png" width="30%"/><br/><img src="https://cdn2.steamgriddb.com/logo_thumb/70bf54530cab6be46acaf7d324e2ed42.png" width="35%"/></div>
+				<p>Classic Sonic finds himself pulled into another time distortion, much like the events of Sonic Generations. However, this time, the anomalies are far more chaotic, with familiar locations twisted by an unknown force. As he speeds through remixed versions of his past zones, he notices strange shadowy influences creeping into his world.</p><p>While navigating these distortions, Classic Sonic encounters remnants of Shadow’s past, including Radical Highway, now warped by Black Doom’s interference. Though unfamiliar with Shadow’s history, he quickly realizes that the timeline is unraveling beyond just his own era.</p><p>Classic Sonic plays a crucial role in stabilizing the timeline, using his speed and agility to restore key locations to their original state. Though Modern Sonic and Shadow take center stage in the final battle, Classic Sonic ensures that his era remains intact, preventing further distortions from erasing his past adventures.</p>
+		</div>
+        <div id="sonic-forces" class="timeline-section">
+            <h3>Sonic Forces (2017)</h3>
+            <p>The Resistance rises against Eggman, with Nicky playing a vital role.</p>
+        </div>
+        <div id="sonic-frontiers" class="timeline-section">
+            <h3>Sonic Frontiers (2022)</h3>
+            <p>Dimensional shifts and Chaos Unification expand Sonic's universe.</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleSidebar() {
+            let sidebar = document.getElementById("sidebar");
+            let toggleBtn = document.getElementById("toggle-btn");
+
+            if (sidebar.style.left === "-250px") {
+                sidebar.style.left = "0";
+                toggleBtn.innerHTML = "✖"; // Change to close button
+            } else {
+                sidebar.style.left = "-250px";
+                toggleBtn.innerHTML = "☰"; // Back to hamburger menu
+            }
+        }
+    </script>
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,189 @@
+<style>
+/*=================STYLES - UNIVERSAL=================*/
+	@font-face{ 
+		font-family: 'ethnocentric';
+		src: url('../../assets/fonts/Ethnocentric Rg It.otf');
+	}
+	@font-face{ 
+		font-family: 'forgotten futurist';
+		src: url('../../assets/fonts/Forgotten Futurist Rg.otf');
+	}
+	h1, h2, h2, h3, h4, h5, h6, hr {
+		color: white;
+		font-family: ethnocentric;
+		font-size: 16px;
+		text-align: center;
+	}
+	p, ul {
+		color: white;
+		font-family: 'forgotten futurist';
+	}
+	* {
+		box-sizing: border-box;
+	}
+	/* Set a background color */
+	body {
+		background-image: url("../../assets/ui/bg/tb_background.png"), linear-gradient(0deg, rgba(1,209,72,1) 16%, rgba(9,1,209,1) 54%);
+		background-blend-mode: screen;
+		background-repeat: repeat;
+		background-attachment: fixed;
+	}
+	.stars {
+			left: 0px;
+			top: 0px;
+			width: 100%;
+			opacity: 0.2;
+			position: fixed;
+			z-index: -1;
+		}
+	.background {
+		left: 0px;
+		top: 0px;
+		width: auto;
+		position: fixed;
+		z-index: -1;
+	}
+	.button {
+		background-color: #04AA6D; /* Green */
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+	}
+/*=================STYLES - TIMELINE=================*/
+	/*=======TABLE OF CONTENTS=======*/
+	/*TABLE OF CONTENTS - SIDENAV*/
+	.sidenav {
+		height: 100%; /* 100% Full-height */
+		width: 0; /* 0 width - change this with JavaScript */
+		position: fixed; /* Stay in place */
+		z-index: 1; /* Stay on top */
+		top: 0; /* Stay at the top */
+		left: 0;
+		background-color: #111; /* Black*/
+		overflow-x: hidden; /* Disable horizontal scroll */
+		padding-top: 60px; /* Place content 60px from the top */
+		transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+	}
+	/*TABLE OF CONTENTS - LINKS*/
+	.sidenav p {
+		padding: 8px 8px 8px 32px;
+		text-decoration: none;
+		font-family: kimberley;
+		font-size: 19px;
+		color: #818181;
+	}
+	.sidenav a {
+		padding: 8px 8px 8px 32px;
+		text-decoration: none;
+		font-family: nunito;
+		font-size: 15px;
+		color: #818181;
+		display: block;
+		transition: 0.3s;
+	}
+	/*TABLE OF CONTENTS - FOCUS*/
+	.prevent-select {
+		-webkit-user-select: none; /* Safari */
+		-ms-user-select: none; /* IE 10 and IE 11 */
+		user-select: none; /* Standard syntax */
+	}
+	/*TABLE OF CONTENTS - CLOSE*/
+	.sidenav .closebtn {
+		position: absolute;
+		top: 0;
+		right: 25px;
+		font-size: 36px;
+		margin-left: 50px;
+	}
+	/*TABLE OF CONTENTS - LINK HOVER EFFECT*/
+	.sidenav a:hover {
+		color: #f1f1f1;
+	}
+	/*=======TIMELINE ITSELF=======*/
+	/*TIMELINE - LINE*/
+		.timeline::after {
+		content: '';
+		position: absolute;
+		width: 12px;
+		background-color: #163086;
+		top: 80;
+		bottom: -30;
+		left: 50%;
+		margin-left: -5px;
+	}
+	/*TIMELINE - CONTAINERS, HEADDERS & CONTENT*/
+	/* Container Positioning */
+	.container {
+		padding: 10px 40px;
+		position: relative;
+		width: 50%;
+	}
+	.content2 {
+		padding: 20px 30px;
+		background-color: rgba(0,0,0,0);
+		position: relative;
+		border-radius: 15px;
+	}
+	.content3 {
+		padding: 20px 30px;
+		width: 650px;
+		height: fit-content;
+		transform: skew(0.7deg);
+		background-color: #3c78d8;
+		border: 8px solid #163086;
+		position: relative;
+	}
+	#entry > p, #gimg
+	{
+		transform: skew(-2deg);
+	}
+	.content3#gheadder > h3 > img {
+		/*transform: skew(5deg);*/
+	}
+	/*HEADDERS*/
+	.iheadder {
+		position: absolute;
+		top: -40px;
+		left: -15px;
+		padding: 10px;
+		background-color: #163086;
+		border: 8px solid #3c78d8;
+		transform: rotate(-2deg);
+		z-index: 1;
+	}
+	.pshad {
+		height: 100px;
+		line-height: 100px;
+		text-align: center;
+		border: 2px dashed #f69c55;
+	}
+	/* The circles on the timeline */
+	.container::after {
+		content: '';
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		right: -17px;
+		background-color: white;
+		border: 4px solid #163086;
+		top: 15px;
+		border-radius: 50%;
+		z-index: 1;
+	}
+	.container2 {
+		padding: 10px 10px;
+		position: fixed;
+		float: left;
+		display: inline-block;
+		background-color: #111;
+		width: 48px;
+	}
+	.center1 {
+		margin-left: auto;
+		margin-right: auto;
+	}
+</style>

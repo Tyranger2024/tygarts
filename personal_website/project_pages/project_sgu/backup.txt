@@ -1,0 +1,1292 @@
+<!--DIV: PRE-HISTORY-->
+<div class = "prehistory_timeline timeline" style = "height: auto;">
+<div class = "himg" style = "text-align: center; z-index: 1"><img src ="assets/banners_logos/banners/h_prehistory.png"/></div>
+<!-- DIV: TIME OF AWAKENING | THE ANCIENTS--> 
+<div class="container left" id = "bot_ooce">
+	<div class="content">
+		<div id="container4" class="iheadder">
+			<h2><b>Time of Awakening | The Ancients (4000 B.S.I)</b></h2>
+		</div>
+	  <div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/2/26/SonicFrontiers_Ancients_Planet_Explosion.png" width = "349px" height = "200px"/></div>
+		<ul>
+			<li>The Big Bang explodes creating the SEGASonic Universe within it residing various planets, beings, and the Chaos Emeralds, this universe would be the Core of the Sonic the Hedgehog Multiverse.
+				<ul>
+					<li>Amisdt the planets created were Earth, Little Planet, The Ancients Homeworld, and The Lost Hex.</li>
+					<li>Amisdt the beings created are The End, Light Gaia, and Dark Gaia. Light and Dark Gaia being created in a state of slumber waking up every 1000 years for the Time of Awakening. The End goes on to destroy planet across the galaxy taking many civilizations with them.</li>
+					<ul>
+						<li><u><b>Time of Awakening:</b></u> An event that occurs every 1000 years, during which Dark Gaia awakens and destroys the Earth - Light Gaia would lull Dark Gaia back into rest before restoring the planet.</li>
+					</ul>
+				</ul>
+			</li>
+			<li>The Anceints would soon become aware of The End and build spaceships powered by Chaos Engines - engines that can tap into the Chaos Emerald's power to escape their planet mere moments before it's destroyed.
+			<ul>
+				<li> The Ancients notice the Chaos Emeralds reacting to something unbeknownst to them that it's the Master Emerald back on Earth. They follow the reaction of the Emeralds leading them to the Starfall Islands.</li>
+				<li> Sometime after their arrival on the Starfall Islands, they feared the possible return of The End as such created Cyber Space and the Titans. Cyber Space capable of archiving neural networks.</li>
+				<li> The End arrives and begins attacking the Ancients, leading them to mobilize the Titans despite their great power they stand no chance against The End leading Crane - Pilot of the Titan Supreme to bind The End to his Titan resulting in his death.</li>
+				<li> The other Titan Pilots seal The End in Cyber Space, back on Earth the remaining Ancients flee to the Mystic Ruins taking the Master Emerald with them. Years pass as the Ancients DNA degrades leading to the creation of new creatures - The Koco and The Chao.</li>
+			</ul>
+			</li>
+			<li>Elsewhere on Earth a Jungle would grown on an unknown Island - this Island would be the Meta Junglira.</li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: First Record: Time of Awakening--> 
+<div class="container right" id = "tg&tet">
+    <div class="content">
+			<div id="container4" class="iheadder">
+				 <div id="logo" style="text-align: center">
+					<h2><b>First Record: Time of Awakening (???? B.S.I)</b></h2>
+				</div>
+			</div>
+	  <div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/9/9c/Templeinteriorpictureadabat.png/revision/latest/scale-to-width-down/1000?cb=20120407201507" width = "349px"/></div>
+		<ul>
+			<li>Somewhere on Earth, an unknown race called The Fourth Great Civilization created the Gizoid, a robot of immense power capable of copying any ability or attack it sees. The Gizoid who's name tyranslates to "everything", would be programmed to conquer all in it's path catalouging every weapon and fighting style it encounters to use against it's opponents.</li>
+			<li>To esnure it's total obedience, the Gizoid was made to require a Link with the most powerful being in order to function, but should it encounter something even stronger a New Link will be made. But in a creul twist of fate, the Gizoid conquered it's own creators and drove them to extinction, leaving both it and a few trace ruins all that remains of their existence. </li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: The Gizoid & Echidna Tribe--> 
+<div class="container left" id = "tg&tet">
+    <div class="content">
+		<div id="container4" class="iheadder">
+			<h2><b>The Gizoid & Echidna Tribe (3052, 3014 B.S.I)</b></h2>
+		</div>
+	  <div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/b/bd/Sonic_Channel_2021_Tanabata.jpg" width = "349px"/></div>
+		<ul>
+			<li>Somewhere on Earth, an unknown race called The Fourth Great Civilization created the Gizoid, a robot of immense power capable of copying any ability or attack it sees. The Gizoid who's name tyranslates to "everything", would be programmed to conquer all in it's path catalouging every weapon and fighting style it encounters to use against it's opponents.</li>
+			<li>To esnure it's total obedience, the Gizoid was made to require a Link with the most powerful being in order to function, but should it encounter something even stronger a New Link will be made. But in a creul twist of fate, the Gizoid conquered it's own creators and drove them to extinction, leaving both it and a few trace ruins all that remains of their existence. </li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: BLACK ARMS PREPARE TO INVADE--> 
+<div class="container right" id = "ba_dsx">
+    <div class="content">
+		<div id="container4" class="iheadder">
+			<h2 style="12px;"><b>Countdown to Black Arms Invasion (2000 B.S.I)</b></h2>
+		</div><br/>
+		<div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/d/d0/Sky_Troops_cutscene.png/revision/latest/scale-to-width-down/1000?cb=20170426142207" width = "349px"/></div>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: DEADLY SIX FOUNDED--> 
+<div class="container left" id = "ba_dsx">
+    <div class="content">
+		<div id="container4" class="iheadder">
+			<h2><b>Deadly Six Founded by Master Zik (1036, 148, 133, 127, 120, 112 B.S.I)</b></h2>
+		</div><br/><br/>
+	  <div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/8/86/DSIDW43.jpg" width = "349px"/></div>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: BIRTH OF PROFESSOR PICKLE, MARIA ROBOTNIK, and ABRAHAM TOWER--> 
+<div class="container right" id = "b_pma">
+    <div class="content">
+		<div id="container4" class="iheadder">
+			<h2><b>Births: Prof. Pickle, Maria Robotnik, Abraham Tower. (80,62,60 B.S.I)</b></h2>
+		</div><br/><br/>
+	  <div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/1/10/Pickle%2C_Professor.png" width = "100px"/><img src ="https://static.wikia.nocookie.net/sonic/images/5/5f/SXSG_Maria_Render.png" width = "100px"/><img src ="https://static.wikia.nocookie.net/sonic/images/e/e8/GUN-Commander.png" width = "100px"/></div>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: PROJECT SHADOW--> 
+<div class="container left" id = "pjsh">
+    <div class="content">
+		<div id="container4" class="iheadder">
+			<h2><img src="https://mario.wiki.gallery/images/f/fe/MyS_emblem_Shadow.png" width="52px"><b style="position: relative; bottom: 10px;">  Project Shadow (50 B.S.I)</b></h2>
+		</div><br/><br/>
+	  <div id="logo" style ="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/4/48/SXSG_DB_Teaser11.png" width = "349px"/></div>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: BIRTH OF MANY--> 
+<div class="container right" id = "b_many">
+    <div class="content">
+		<div id="container4" class="iheadder">
+			<h2><b>Births: Many (20 - 6 B.S.I).</b></h2>
+		</div><br/><br/>
+	  <div id="logo" style ="text-align: center"><img src ="../../main_images/artwork/character_collage.png" width = "450px"/></div>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+</div>
+<!-- DIV: SOLARIS PROJECT--> 
+<div class="container left" id = "slrs_pj">
+    <div class="content" style ="opacity: 0.8">
+		<div id="container4" class="iheadder">
+			<h2><b>The Solaris Project (10 B.S.I)</b></h2>
+		</div><br/><br/>
+	  <div id="logo" style ="text-align: center"><img src ="https://64.media.tumblr.com/731ed07788aa61276eb7759aa18b672a/a1dbeebc2e340a97-76/s640x960/1a4ad60a988185da3b8d325decc3886c5bca5ba7.jpg" width = "249px"/><img src ="https://static.wikia.nocookie.net/sonic/images/3/34/Solaris_Project_In_Process.png" width = "255px"/></div>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+</div>
+</div>
+<!-- DIV: CLASSIC ERA-->
+<div class ="classic_timeline timeline" style = "height: auto; top: -30px;">
+	<div class = "himg" style = "text-align: center; z-index: 1"><img src ="assets/banners_logos/banners/h_classiceraalt.png"/></div>
+		<!-- DIV: SONIC ORIGINS-->
+			<!-- DIV: SONIC 1--> 
+			<div class="container right" id="s1_16">
+					<div class="content3" id="entry">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/7/72/SonicOriginsPlus_Logo.png/revision/latest?cb=20230323193011" width = "300px" title="Sonic Origins"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 120px;">
+							<h3>Dr. Eggman Attacks South Island!</h3>
+							<div style ="text-align: center"><img src="https://static.wikia.nocookie.net/sonic/images/4/4a/Sonic_Origins_Sonic_1_intro_10.png/revision/latest?cb=20220712230655" width="450px"></div>
+						</div>
+						<p>In <strong>SGU’s version of Sonic Origins</strong>, Sonic embarks on his foundational journey across Mobius, facing Dr. Eggman’s growing threats and uncovering deeper connections between Chaos Energy and ancient civilizations.</p>
+
+						<p>Sonic's adventure begins in <strong>Green Hill Zone</strong>, traveling through newly integrated zones like <strong>Basin Bridge, Jungle Zone, and Sky Base</strong>, which add complexity to his battle against Eggman’s first wave of mechanized forces. As Sonic reaches <strong>Little Planet in Sonic CD</strong>, he encounters unstable time warps due to Eggman’s experiments with the <strong>Time Stones</strong>, setting the stage for his race against <strong>Metal Sonic</strong> in Stardust Speedway.</p>
+
+						<p>With <strong>Tails joining in Sonic 2</strong>, the duo pursues Eggman to stop the <strong>Death Egg’s launch</strong>, uncovering the secrets of <strong>Hidden Palace Zone</strong>, where remnants of an ancient civilization hint at the deeper power behind the Chaos Emeralds. In <strong>Sonic 3 & Knuckles</strong>, Sonic confronts <strong>Knuckles</strong>, manipulated by Eggman, and fights for control of the <strong>Master Emerald</strong>, which becomes a pivotal element in restoring balance to Mobius.</p>
+
+						<p>The events of <strong>Sonic Origins</strong> lay the groundwork for Sonic's future conflicts, reinforcing his status as Mobius' greatest hero while deepening the mystery surrounding the <strong>Chaos Emeralds</strong> and the forces that once wielded them.</p>
+
+					</div>
+			</div>
+			<!-- DIV: SONIC X SHADOW GENERATIONS: CLASSIC STORY--> 
+			<div class="container left" id="sxsg_classic">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="../../main_images/renders/classicsonic.png" width = "107px"/><img src ="https://cdn2.steamgriddb.com/logo_thumb/70bf54530cab6be46acaf7d324e2ed42.png" width = "204px"/></div>
+					</div><br/><br/><br/>
+					<h3>Classic Sonic ripped from the Past!</h3>
+						<div id="center1" style ="text-align: center"><img src="../../main_images/artwork/sonic_gen_te.png" width ="450px"/></div>
+					<p>Shortly after the events of <strong>Sonic Origins</strong>, Classic Sonic is suddenly pulled from his timeline by the <strong>Time Eater</strong>, an entity disrupting the stability of space-time. Without warning, he finds himself in a void where past memories seem to shatter, distorting familiar locations.</p>
+					<p>As Sonic speeds through altered versions of <strong>Green Hill, Chemical Plant, and Stardust Speedway</strong>, he realizes these areas aren’t exactly as he remembers them—zones from different points in time seem to overlap, creating a chaotic path forward. His journey takes him deeper into these twisted recreations, forcing him to re-experience battles and challenges with a sense that history itself is unraveling.</p>
+					<p>During his adventure, Sonic encounters figures from his past, but something feels off—Eggman’s influence is clearly present, yet the force controlling the distortions is beyond anything Sonic has dealt with before. As he finally reaches the battle against the Time Eater, Sonic overcomes the entity’s hold on his timeline and is ultimately sent back to his own era. Though the world appears stable again, subtle signs suggest that his trip through distorted time may have caused changes that he has yet to fully understand.</p>
+			</div>
+			<!-- DIV: SONIC 2 (Game Gear)--> 
+			<div class="container right" id="s2_8">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/1de77f62112ca5add5de20c6074f34b6.png" width = "254px"/><br/><img src ="https://cdn.wikimg.net/en/strategywiki/images/thumb/e/e0/Sega_Game_Gear_logo.svg/2560px-Sega_Game_Gear_logo.svg.png" width = "211px"/></div>
+					</div><br/><br/>
+					<h3>Foxnapped! Tails is captured!</h3>
+						<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/a/a7/Sonic2_SMS_Comparison_Intro.png" width ="350px"/></div>
+							<p>Following the events of <strong>Sonic x Shadow Generations</strong>, Classic Sonic returns to his timeline, only to find Mobius still destabilized by residual <strong>Chronos Control distortions</strong>. Dr. Eggman seizes this opportunity, launching a fresh attack on the planet, kidnapping Tails and threatening South Island once more.</p>
+							<p>As Sonic rushes across iconic zones like <strong>Underground Zone, Sky High Zone, and Scrambled Egg Zone</strong>, he faces newly enhanced robotic forces and environmental anomalies that hint at lingering timeline disturbances. These disruptions suggest that Sonic’s previous battle against the Time Eater may have left Mobius in a fragile state.</p>
+							<p>Eventually, Sonic reaches <strong>Crystal Egg Zone</strong, where Eggman has constructed a final stronghold infused with <em>unstable Chaos Energy</em>. After defeating Eggman and rescuing Tails, Sonic stabilizes the current timeline—though hidden signs suggest that Mobius is still vulnerable to future disruptions.</p>
+				</div>
+			</div>
+			<!-- DIV: SONIC CHAOS--> 
+			<div class="container left" id="scho">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/fcee1c9ad92de3cb8a6ed6d0622cb4ad.png" width = "404px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 15px;">
+							<h3>South Island Sinks!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/8/8b/SonicChaos_SMS_Intro.png" width ="350px"/></div>
+						</div>
+					<p>Dr. Eggman obtains the Red Chaos Emerald disrupting their connection to South Island in the process, causing it to sink into the sea. Sonic and Tails hear rumors that Dr. Eggman is searching for the Chaos Emeralds and return to South Island only to find the rumors were true.</p>
+					<p>Sonic and Tails soon track down and give chase to Dr. Eggman who escapes with the Red Chaos Emerald, making their way to Turqouise Hill where they journey across South Island collecting all the Chaos Emeralds and defeating Dr. Eggman. Sonic uses the Chaos Emeralds to restore South Island.</p>
+				</div>
+			</div>
+			<!-- DIV: SONIC DRIFT--> 
+			<div class="container right" id="sd1">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/4d7efe87e47389ee9f84559335b86a63.png" width = "234px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 55px;">
+							<h3>Start your Engines, Chaos Grand Prix!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/7/70/Drift_Spring_Yard.png" width ="340px"/></div>
+						</div>
+					<p>The world's first Chaos Grand Prix is being held as Sonic, Tails, Amy, and Dr. Eggman all enter aiming to take home the gold. In the end Sonic emerges the victor, and wins the trophy.</p>
+				</div>
+			</div>
+			<!-- DIV: SONIC BLAST--> 
+			<div class="container left" id="sb">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/429b5c14c4ecc85de7981da4090eb68f.png" width = "234px"/></div>
+					</div><br/><br/>
+						<div style ="text-align:center; margin-top: 15px;">
+							<h3>Silver Castles and Emerald Shards</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/9/94/Yellow_Desert.png" width ="340px"/></div>
+						</div>
+						<p>The world's first Chaos Grand Prix is being held as Sonic, Tails, Amy, and Dr. Eggman all enter aiming to take home the gold. In the end Sonic emerges the victor, and wins the trophy.</p>
+				</div>
+			</div>
+			<!-- DIV: TAILS ADVENTURE--> 
+			<div class="container right" id="sd2">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/fd1cf65576f0c5fb963ae706c089d63e.png" width = "234px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 15px;">
+							<h3>Great Battle Kukku Attack Cocoa Island!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/c/c0/Tagreenisland.png" width ="340px"/></div>
+						</div>
+						<ul>
+							<li>At the same time as the Little Planet incident, far in the southern oceans is where Coco Island resides - now being where the Chaos Emeralds rest. Tails having moved here to escape the bulling he faced lived on this island, was resting in Poloy Forest when suddenly explosions littered the forest causing it to erupt in flames, awakening him.</li>
+							<li>A flicky warned him about the Great Battle Kukuu's Invasion and their intent to collect the Chaos Emeralds. Tails summoning his courage goes on his first adventure to put a stop to the Great Battle Kukuu's Plans eventually storming the Battle Fortress and defeating Great Battle Kukuu XVI.</li>
+							<li>Tails escaped the exploding fortress in the Sea Fox and returned to Coco Island where he'd try to improve on his Remote Robot, only for it to explode. Exasperated and realizing the danger on Coco Island Tails moved back to Westside Island.</li>
+						</ul>
+				</div>
+			</div>
+			<!-- DIV: SONIC LABYRINTH | TAILS SKYPATROL--> 
+			<div class="container left" id="sl_ts">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/d2d8c0f1e97017883799eeb270accbf4.png" width = "234px"/><img src ="https://cdn2.steamgriddb.com/logo/9a7524e7a36bca7712594545d17d2160.png" width = "234px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 58px;">
+							<h3>Slowdown Boots and Witchcarts</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/d/d3/SLabyrinthLoSky.png" width ="240px"/><img src="https://info.sonicretro.org/images/0/03/Rail_CanyonTSP.png" width ="240px"/></div>
+						</div>
+						<p></p>
+				</div>
+			</div>
+			<!-- DIV: DR.ROBOTNIK'S MEAN BEAN MACHINE--> 
+			<div class="container right" id="sd2">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/e5bf23321ac8680df3177219150291c8.png" width = "234px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 61px;">
+							<h3>Mean Puyo-Puyo Machine!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/d/d0/Arms_In-game.png" width ="340px"/></div>
+						</div>
+						<p style = "font-family: barlow"></p>
+				</div>
+			</div>
+			<!-- DIV: SONIC SPINBALL--> 
+			<div class="container left" id="ssb">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align:left;"><img src ="https://cdn2.steamgriddb.com/logo/4855678ca8b08b092ab353309336db8a.png" width = "418px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 35px;">
+							<h3>Veg-O-Fortress Built on Mt.Mobius!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/2/21/Veg-O-Fortress.png" width ="340px"/></div>
+						</div>
+					<ul>
+						<li>Dr. Eggman washes ashore a volacnic island home to a volcano known as Mt. Mobius, currious about the form Sonic took previously - Dr. Eggman seeks to recreate that power building the Veg-o-Fortress, complete with a pinball defense system, and the roboticizer. Dr. Eggman also builds a chicken-robot called Scratch.</li>
+						<li>Dr. Eggman then begins capturing various individuals and animals more speciffically - Sally Acorn, Bunnie Rabbot, Rotor Walrus, and a dog named Muttski before perfecting his Chaos Emerald replicas proclaiming he's managed to collect them all.</li>
+						<li>Hearing of this Sonic & Tails head to Mt.Mobius where the secondary defense system is triggered causing it to fire at the Tornado, Tails manages to swerve out of the way but Sonic falls into the waters below where he enters the fortess through the Toxic Caves/Pools.</li>
+						<li>Sonic quickly grows accustomed to the Pinball Defense system and begins collecting, what he believes, are the Chaos Emeralds. Making his way through the Toxic Caves, Lava Powerhouse, The Machine, freeing Sally, Bunnie, Rotor, and Muttski before making his way to the Showdown where he take the fight to and defeats Dr. Eggman.</li>
+						<li>Sonic & Eggman fall from space with Tails catching Sonic in the Tornado, while Dr. Eggman plummets into the collapsing Mt.Mobius. Sonic having collected all - 16 Emeralds?! Clearly something wasn't right Tails currious at the swelled number suspects Dr. Eggman was experimenting in making Fake Chaos Emeralds.</li>
+						<li>Sonic believing Tails is right hands over the Fake Emeralds to Tails so he may study them at a later date.
+							<ul>
+								<li><b><u>Sonic Spinball,Fighters + Origins:</u></b> <i>Sonic Spinball</i> and <i>Sonic the Fighters</i> has 16 and 8 Chaos Emeralds respectively, exceeding the canonically established ammount of 7. In pre-retcon lore this was because there were multiple sets of Chaos Emeralds per-island, however this was retconned to 7 Worldwide in <i>Sonic Origins</i></li>
+								<li><b><u>Fang the Hunter (IDW):</u></b> The above is backed by <i>Fang the Hunter (IDW)</i> as Sonic himself asserts to Fang that only 7 Chaos Emeralds exist when he seeks out an 8th.</li>
+								<li><b><u>Sonic Spinball + Sonic Adventure 2:</u></b> This can be explained by means of Sonic Adventure 2 - where Tails makes a Fake Chaos Emerald claiming he made them after studying the Chaos Emeralds. These were the Emeralds from <i>Sonic Spinball</i></li>
+								<li><b><u>Sonic Spinball + Sonic The Fighters:</u></b>Tails would Study the 16 Emeralds from <i>Sonic Spinball</i> due to the irregular ammount, and use his findings to make a Fake Chaos Emerald in <i>Sonic the Fighters</i> letting Sonic know it was fake.</li>
+								<li><b><u>Fang the Sniper (IDW) + Sonic Adventure 2:</u></b> Some time after <i>Sonic Mania</i> Fang having remembered there being 8 from <i>Sonic the Fighters</i> would consult Sonic who reiterated that there were only 7 in <i>Fang the Hunter (IDW)</i> not counting the Fake 8th Tails had made. Tails would re-use this knowledge to craft the Fake Chaos Emerald seen in <i>Sonic Adventure 2</i>.</li>
+								<li><b><u>Sonic 3D Blast: Flickies Island:</u></b> All the above means the Chaos Emeralds in <i>Sonic Spinball</i> were fakes made by Dr.Eggman - the real ones resided on Flickies Island.</li>					
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- DIV: SONIC 3D BLAST: FLICKIES ISLAND--> 
+			<div class="container right" id="s3d_fi">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align:left;"><img src ="https://cdn2.steamgriddb.com/logo/cd3c25ad76cea310d65a3a04468f52f7.png" width = "311px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 85px;">
+							<h3>Flickies Island Attacked</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/d/db/Sonic3DFlickies.png" width ="340px"/></div>
+						</div>
+					<ul>
+						<li>Dr. Eggman hears of the current location of the Chaos Emeralds and their connection with the Flickies and makes his way over to Flickies Island where using a satelite he built he finds the Flickies using Warp Rings to travel through Subspace. Shortly after creating the Big Ring Generating Machine and using it to capture flickies trapping them in Badniks.</li>
+						<li>Sonic, Tails, and Knuckles visit Flickies Island in search of the Flickies on arrival however - they only found robots with Sonic defeating them before finding Dr. Eggman trapping a flicky inside a robot, Dr. Eggman taunting Sonic before flying off in his Eggmobile.</li>
+						<li>As thanks for freeing them the Flickies teach Knuckles and Tails how to use normal rings to access Subspace as Sonic begins to travel across Flickies Island's Green Groves, Rusty Ruins, Spring Stadiums, Diamond Dusts, and Volcano Valleys all whilst collecting the 7 Chaos Emeralds.</li>
+						<li>Sonic then takes the fight to Dr. Eggman who escapes into subspace himself where he faces off against Dr. Eggman in the Final Fight, defeating him he returns to Flickies Island where the Flickies thank him for his efforts in saving them. Knuckles parting ways from Sonic & Tails, returning to Angel Island.</li>
+					</ul>
+				</div>
+			</div>
+			<!-- DIV: SONIC R--> 
+			<div class="container left" id="sonic_r">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align:left;"><img src ="https://cdn2.steamgriddb.com/logo/41ab1b1d6bf108f388dfb5cd282fb76c.png" width = "208px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 95px;">
+							<h3>First World Grand Prix!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/9/9a/SonicR_SAT_RegalRuin.png" width ="340px"/></div>
+						</div>
+					<p style = "font-family: barlow"></p>
+				</div>
+			</div>
+			<!-- DIV: SEGASONIC THE HEDGEHOG--> 
+			<div class="container right" id="ssa">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align:left;"><img src ="https://cdn2.steamgriddb.com/logo/2fef7302957c2c3ebb195518cd974dd5.png" width = "261px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 105px;">
+							<h3>Escape from Eggman Island!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/2/2b/Segasonic_traptower.png" width ="340px"/></div>
+						</div>
+					<p style = "font-family: barlow"></p>
+				</div>
+			</div>
+			<!-- DIV: KNUCKLES CHAOTIX--> 
+			<div class="container left" id="kchx">
+					<div class="content3" id="entry">
+						<div id="container4" class="iheadder">
+							<div id="logo" style="text-align:left;"><img src ="https://cdn2.steamgriddb.com/logo/f540b5a543ecdae19fa0876e80f10528.png" width = "311px"/></div>
+						</div>
+							<div style ="text-align:center; margin-top: 55px;">
+								<h3>Newtrogic High Emerges</h3>
+								<img src="https://info.sonicretro.org/images/d/da/ChaotixTechnoTower.png" width ="340px"/>
+							</div>
+							<p>TEST</p>
+					</div>
+			</div>
+			<!-- DIV: SONIC TRIPLE TROUBLE--> 
+			<div class="container right" id="stt">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/2075c1dd62a44cb74df76e63f4d7e331.png" width = "304px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 85px;">
+							<h3>Jerboas and Atomic Destroyers</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/6/68/SonicTripleTrouble_GG_EggmanOpening.png" width ="240px"/></div>
+						</div>
+						<p></p>
+				</div>
+			</div>
+			<!-- DIV: SONIC DRIFT 2--> 
+			<div class="container left" id="sd2">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/3eb414bf1c2a66a09c185d60553417b8.png" width = "234px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 85px;">
+							<h3>Race On! Second Chaos Grand Prix!</h3>
+							<div id="center1" style ="text-align: center"><img src="https://info.sonicretro.org/images/3/3a/Drift2_Casino_Night.png" width ="240px"/></div>
+						</div>
+						<p style = "font-family: barlow"></p>
+				</div>
+			</div>
+			<!-- DIV: SONIC THE FIGHTERS--> 
+			<div class="container right" id="stfr">
+				<div class="content">
+					<div id="container4" class="iheadder">
+						 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/0197fcd95060131d9bc5e564f842ed53.png" width = "204px"/></div>
+					</div>
+						<div style ="text-align:center; margin-top: 105px;">
+							<h3>Championship of Hooligans!</h3>
+							<div style ="text-align:center;"><img src="https://static.wikia.nocookie.net/sonic/images/b/b4/Sonicismadatknux.jpg" width ="340px"/></div>
+						</div>
+					<p style = "font-family: barlow"></p>
+				</div>
+			</div>
+			<div class="content himg" style = "text-align: center; z-index: 1"><div id="logo" style="text-align: center"><h2>End of</h2><img src ="https://static.wikia.nocookie.net/sonic/images/7/72/SonicOriginsPlus_Logo.png/revision/latest?cb=20230323193011" width = "300px"/></div></div><br/><br/><br/><br/><br/>
+		<!-- DIV: SONIC MANIA--> 
+		<div class="container left" id="sm">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/155f4603b76e476b3e0dec9a1d5b4c50.png" width = "204px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 65px;">
+						<h3>Hard-Boiled Heavies and Rubies</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/b/bf/HardBoiledHeaviesPreTransform.jpg/revision/latest/scale-to-width-down/1000?cb=20170830111506" width ="340px"/>
+					</div>
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+		<!-- DIV: SONIC FORCES: CLASSIC STORY--> 
+		<div class="container right" id="sf_classic">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="../../main_images/renders/classicsonic.png" width = "107px"/><img src ="https://cdn2.steamgriddb.com/logo/30f7294e5c237c738e35a949f8e3f6fa.png" width = "204px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 85px;">
+						<h3>Even Heroes Need Help.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/4/4e/SFSTORY18.png/revision/latest/scale-to-width-down/1000?cb=20170914041525" width ="340px"/>
+					</div>
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+		<!-- DIV: SONIC MANIA: PLUS--> 
+		<div class="container left" id="sma_smp">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/3/3f/Sonic_Mania_Adventures_Logo_1521196426.png" width = "200px"/><img src ="https://cdn2.steamgriddb.com/logo/8791dd6302cbe8cd557209ff026d8e08.png" width = "204px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 85px;">
+						<h3>Ruby Rampage!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/6/65/SonicManiaPlusScreenshots1.jpg/revision/latest?cb=20180520135757" width ="340px"/>
+					</div>
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+		<!-- DIV: SONIC 30th ANNIVERSARY--> 
+		<div class="container right" id="s30th">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_sonic30thanniversary.png" width = "200px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 45px;">
+						<h3>Birthdays, Driving, and Seasons of Chaos!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/7/7d/Sonic30OneShotCoverA.jpg/revision/latest/scale-to-width-down/1000?cb=20210624023034" width ="30%"/>
+					</div>
+					<p></p>
+			</div>
+		</div>
+		<!-- DIV: TAILS 30th ANNIVERSARY--> 
+		<div class="container left" id="s_t30th">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><<img src ="images/logos/l_tails30thanniversary.png" width = "400px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 35px;">
+						<h3>Flying off the Rails! Return of Witchcart!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/3/36/Tails30thCoverA.jpg/revision/latest/scale-to-width-down/1000?cb=20221117143415" width ="30%"/>
+					</div>
+					<p></p>
+			</div>
+		</div>
+		<!-- DIV: AMY 30th ANNIVERSARY--> 
+		<div class="container right" id="s_a40th">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_amy30thanniversary.png" width = "400px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 25px;">
+						<h3>Heart of the Cards!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/9/97/IDWAmy30thcoverA1.jpg/revision/latest/scale-to-width-down/1000?cb=20230623053254" width ="30%"/>
+					</div>
+				<p></p>
+			</div>
+		</div>
+		<!-- DIV: FANG THE HUNTER--> 
+		<div class="container left" id="s_fth">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_fangthehunter.png" width = "300px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 45px;">
+						<h3>An 8th Chaos Emerald?! Warp Topaz Discovered!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/0/0d/FangMini1CoverA.jpg" width ="30%"/>
+					</div>
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+		<!-- DIV: SONIC SUPERSTARS: FANG'S BIG BREAK--> 
+		<div class="container right" id="ssstrs_fbb">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_sonicsuperstarsfangsbigbreak.png" width = "300px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 55px;">
+						<h3>An 8th Chaos Emerald?! Warp Topaz Discovered!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/7/70/Fang%27s_Big_Break_Cover.jpg" width ="30%"/>
+					</div>
+					<p></p>
+			</div>
+		</div>
+		<!-- DIV: SONIC SUPERSTARS: TRIO OF TROUBLE--> 
+		<div class="container left" id="ssstrs_tot">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/8/81/SSToT_logo.png" width = "300px"/></div>
+				</div><br/><br/><br/><br/>
+					<div style ="text-align:center; margin-top: 55px;">
+						<h3>Northstar Island Invaded! Discovery of the Black Onyx!</h3>
+						<div id="video" style ="text-align: center"><iframe src = "https://www.youtube-nocookie.com/embed/4wzSw2iuk_8" width = "480px" height = "270px"></iframe></div>
+					</div>
+				
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+		<!-- DIV: SONIC SUPERSTARS--> 
+		<div class="container right" id="s_sstrs">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/f6492a279209733a52f555c04f409a7d.png" width = "300px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 55px;">
+						<h3>The Black Dragon is Unleashed!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/ec/SSPromo3.jpg" width ="340px"/>
+					</div>
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+		<!-- DIV: KNUCKLES 30th ANNIVERSARY--> 
+		<div class="container left" id="s_k30th">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_knuckles30thanniversary.png" width = "300px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 55px;">
+						<h3>Guardians Unite! Knuckles tutors Trip!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/6/66/IDWKnuckles30thcoverA.jpg" width ="30%"/>
+					</div>
+				<p style = "font-family: barlow"></p>
+			</div>
+		</div>
+	</div>
+<!-- DIV: ADVENTURE ERA-->
+<div class ="adventure_timeline timeline" style = "height: auto; top: -50px;">
+	<div class = "himg" style = "text-align: center; z-index: 1;"><img src ="images/eras/h_adventureera.png"/></div><br/><br/><br/>
+		<!-- DIV: SONIC THE HEDGEHOG 4: EPISODE I--> 
+		<div class="container right" id = "s4e1">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo/0db2e204010400f5c506620adcd1ae68.png" width = "300px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 55px;">
+						<h3>Back to Basics, Needlemouse!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/0/0e/S4E1_FreeAnimals.png" width ="340px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC THE HEDGEHOG 4: EPISODE METAL--> 
+		<div class="container left" id = "s4eM">
+			<div class="content">
+			  <div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src="https://static.wikia.nocookie.net/sonic-anime/images/9/9c/Metal_.png" width = "100px"/><img src = "images/logos/logo_s4em.png" width = "300px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 85px;">
+						<h3>Metal Sonic Revived</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/e0/Episode_Metal_intro.png/revision/latest?cb=20201204041921" width ="420px"/>
+					</div>
+				<h3>Notes/Contradictions:</h3>
+				<ul>
+					<li><b>Metal Madness:</b> According to SEGA, only one Metal Sonic exsists canonically, given this the events of Episode Metal establishes that Metal Sonic has been stuck on Little Planet since his defeat in Sonic CD. This would make most of Metal Sonic's Classic Era apperances impossible as they all take place during a time when Metal Sonic should be trapped on Little Planet.</li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC THE HEDGEHOG 4: EPISODE II--> 
+		<div class="container right" id = "s4e2">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/7/75/GemsCollectionPlus_Sonic_3.png" width = "93px"/><img src = "https://cdn2.steamgriddb.com/logo/92a57da0ff3323f27fec39ade78d3db8.png" width = "290px"/><img src ="https://static.wikia.nocookie.net/sonic/images/8/8d/Tails_2D_art_peace.png" width = "105px" style="transform: scaleX(-1);"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 85px;">
+						<h3>Return of Little Planet, Death Egg Mk. II Built.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/e4/Screenlg8.jpg" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC ADVENTURE--> 
+		<div class="container left" id = "sa1">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo/23d79697ad3c613f5d6a710258591024.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 85px;">
+						<h3>Chaos Unleashed, Station Square Destroyed.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/e3/Sonic_Adventure_Sonic_cutscenes_16.png/revision/latest?cb=20221010051124" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC SHUFFLE--> 
+		<div class="container right" id = "sshfle">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/cc2b1ba0368ccd98d5bed7e2e97b4bb0.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 89px;">
+						<h3>Precioustone Shattered, Maginaryworld in Crisis!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/f/f7/Shuffle-Lumina.jpg" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC ADVANCE--> 
+		<div class="container left" id = "sadv">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/812d8deb1b2c2bb1589f655481ebd916.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>Back to Advance!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/a/aa/Sbact12.png" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC ADVENTURE 2--> 
+		<div class="container right" id = "sa2">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/61f1b07b2c133994a6d3d64c8a7e47d4.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 79px;">
+						<h3>Shadow Awakened, Lunar Devastation.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/e9/SA2_Shadow-REVENGE%21.png" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC ADVANCE 2--> 
+		<div class="container left" id = "sadv2">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/50a7d2b0a34ff60d996a9420699ba8b9.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 49px;">
+						<h3>Cream of the Crop.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/b/b9/Sonic-Advance-2-Prototype-Leaf-Forest-Group.png" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC HEROES--> 
+		<div class="container right" id = "shros">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/52eeaf9f1eb952e476fe29e3d9eae992.png" width = "190px"/></div>
+				</div><br/><br/><br/><br/>
+					<div style ="text-align:center; margin-top: 19px;">
+						<h3>Impostor Syndrome, and the Metal Overlord</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/e6/Metal_Overlord.png" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SHADOW THE HEDGEHOG--> 
+		<div class="container left" id = "shth">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/701a41e8e3ae2362bf739e5768569eb2.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 59px;">
+						<h3>Black Coment Returns, Black Arms Invasion!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/e/ee/S.T.H._-_Image_-_33.png" width ="420px"/>
+					</div>
+				<p>Note: As the game Shadow the Hedgehog was released as a "choose your own adventure" style of game - it has 326 pathways for the player to explore as such the canon path must be one that doesn't break the canon of the games that come afte but also leads to Last Story.</p>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC BATTLE--> 
+		<div class="container right" id = "sbtle">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/a860a7886d7c7e2a8d3eaac96f76dc0d.png" width = "220px"/></div>
+				</div><br/><br/><br/><br/>
+					<div style ="text-align:center; margin-top: 29px;">
+						<h3>The Gizoid is Found, Death of Emerl.</h3>
+						<img src="https://cdn.mobygames.com/screenshots/15663520-sonic-battle-game-boy-advance-emerl-is-of-no-relation-to-the-tv-.png" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC ADVANCE 3--> 
+		<div class="container left" id = "sadv3">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/7269e7952aa48c4379151a29d01e25dd.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 49px;">
+						<h3>A New Gizoid?! Gemerl Saved.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/a/ab/Altar_Emerald_Zone.png/revision/latest?cb=20100514150108" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC RIDERS--> 
+		<div class="container right" id = "srdrs">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/b38e5ff5f816ac6e4169bce9314b2996.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3>EX World Grand Prix and Babylon Rouges!</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/3/3d/Sonic_Riders_Heroes_intro_17.png" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC THE HEDGEHOG (2006)--> 
+		<div class="container left" id = "s06">
+			<div class="content" style = "opacity: 0.8">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/f36d576ded86c313dce14fa4b8e6c0d4.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 49px;">
+						<h3>The Solaris Paradox</h3>
+						<img src="https://64.media.tumblr.com/731ed07788aa61276eb7759aa18b672a/a1dbeebc2e340a97-76%2Fs640x960%2F1a4ad60a988185da3b8d325decc3886c5bca5ba7.jpg" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC RIVALS--> 
+		<!--<div class="container left" id = "srvls">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/ba61ab7dab67e0845c2e530ba9fd5c2c.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>Sonic meets Silver, Card-tastrophe Ensues.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/6/61/Sonic-rivals-20060818043307449_640w.jpg/revision/latest?cb=20170811084821" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>-->
+		<!-- DIV: SONIC RUSH--> 
+		<div class="container right" id = "srsh">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/61bdf049525b7d4c2cf79257ec7c2c56.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>Sol Dimension Merger</h3>
+						<img src="https://cdn.mobygames.com/screenshots/15928927-sonic-rush-nintendo-ds-encountering-an-enemy.png" width ="50%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC RIDERS: ZERO GRAVITY--> 
+		<div class="container left" id = "srdrs_zg">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/f937c8fddbe66ab03c563f16d5cfa50c.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 55px;">
+						<h3>Wish upon a Star, Ark of the Cosmos</h3>
+						<img src="https://i.ytimg.com/vi/fxSKpCBv4b0/maxresdefault.jpg" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC RIVALS 2--> 
+		<div class="container right" id = "srvls2">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/55e0e14567b396c814a22eee053d34cc.png"g" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>Disappearing Chao, Ifrit Dimension.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/c/c9/Sonic_Rivals_2_-_Chaotic_Inferno_Zone_Promo_07.jpg" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC RUSH ADVENTURE--> 
+		<div class="container left" id = "sradv">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/374c67709beb1e30efea927f6666f732.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>Stranded in the Sol Dimension.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/c/cc/CC_screen026.jpg" width ="50%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC AND THE SECRET RINGS--> 
+		<div class="container right" id = "satsr">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/043ab21fc5a1607b381ac3896176dac6.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3>World Rings and Arabian Nights</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/a/a6/Sasr39.PNG" width ="340px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC UNLEASHED/NIGHT OF THE WEREHOG--> 
+		<div class="container left" id = "suls_now">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/ce3b5506fc4151c97d646dc6fce8b1f5.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>Gaias and Werehogs</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/f/f8/Sonic_going_Werehog_Sonic_Unleashed.jpg" width ="440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+		<!-- DIV: SONIC AND THE BLACK KNIGHT--> 
+		<div class="container right" id = "satbk">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo/0b5e29aa1acf8bdc5d8935d7036fa4f5.png" width = "250px"/></div>
+				</div><br/><br/>
+					<div style ="text-align:center; margin-top: 49px;">
+						<h3>Eternal Worlds and Athurian Legends</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/0/02/SATBK_Sonic_ready.png" width ="440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+</div>
+<!-- DIV: MODERN ERA-->
+<div class ="modern_timeline timeline" style = "height: auto; top: -80px;">
+	<div class = "himg" style = "text-align: center; z-index: 1;"><img src ="images/eras/h_modernera.png"/></div>
+	<!-- DIV: SONIC COLORS: PREQUEL COMICS --> 
+		<div class="container left" id = "scwoi_epp">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center">
+						<img src ="https://cdn2.steamgriddb.com/logo/6b4602eae1698c89b943b92744913eaa.png" width = "250px"/><h4><a href ="https://static.wikia.nocookie.net/sonic/images/5/56/The-Whisper-of-Invasion-Page-1-ENGLISH.jpg/revision/latest?cb=20230728205213" target = "_blank" onclick ="window.open('https://static.wikia.nocookie.net/sonic/images/5/50/The-Whisper-of-Invasion-Page-2-ENGLISH.jpg/revision/latest?cb=20230728205128'); window.open('https://static.wikia.nocookie.net/sonic/images/f/f8/The-Whisper-of-Invasion-Page-3-ENGLISH.jpg/revision/latest?cb=20230728205057');">Whisper of Invasion</a> & <a href ="https://static.wikia.nocookie.net/sonic/images/4/44/SonicColorsComic2-1.jpg/revision/latest?cb=20230728204153" target = "_blank" onclick ="window.open('https://static.wikia.nocookie.net/sonic/images/5/56/SonicColorsComic2-2.jpg/revision/latest?cb=20230728204058');">Egg Planet Park</a></h4>
+					</div>
+				</div><br/><br/><br/><br/><br/><br/><br/>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>Planet Wisp Invasion, Sonic & Tails hear of Egg Planet Park</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/6/63/TheWhisperOfInvasion.jpg/revision/latest?cb=20210827184454" width = "287px"/><img src= "https://static.wikia.nocookie.net/sonic/images/1/19/EggPlanetPark.jpg/revision/latest?cb=20210909165111" width = "287px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC COLORS: RISE OF THE WISPS --> 
+		<div class="container right" id ="scrow">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/f/f6/SonicColors_RotW_Logo-25102260afa36ca8ee38.20661732.png/revision/latest?cb=20210527173058" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>A Wisp in Need</h3>
+					<iframe src ="https://www.youtube-nocookie.com/embed/0RD-sdbfQYI" width = "480px" height = "270px"></iframe>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC COLORS ULTIMATE/DS--> 
+		<div class="container left" id ="scu_ds">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/6b4602eae1698c89b943b92744913eaa.png" width = "230px"/><img src ="https://cdn2.steamgriddb.com/logo/f0cc385832072f09f068b6b4a76dd8c6.png" width = "230px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 79px;">
+						<h3>Intersteallar Amusement Park of Unlimited Colors</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/e/e4/Y_60af681d1935c.jpg/revision/latest?cb=20210528105834" width = "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC X SHADOW GENERATIONS: DARK BEGINNINGS--> 
+		<div class="container right" id ="sxsg_db">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://info.sonicretro.org/images/e/e8/SonicXShadowGenerationsDarkBeginningsLogo.png" width = "280px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3>Something Lurks Aboard the ARK...</h3>
+						<iframe src ="https://www.youtube-nocookie.com/embed/8ZK8bse3Quo" width = "480px" height = "270px"></iframe>
+					</div>
+				<ul>
+					<li>Shadow gets visions of his past with Maria and Black Doom, believing it to be no mere nightmare and with it happening in view of the Space Colony ARK, he believes something lurks on-board seeking answers he rushes off to find a space shuttle.</li>
+					<li>Shadow arrives at Secret Base where assists Rouge and Omega who's gathering intel for G.U.N, Shadow revealing he has reason to believe in the Black Arms return and needs a Space Shutttle, Rouge agrees to help Shadow in exchange for attending Sonic's Birthday Party.</li>
+					<li>Team Dark reunited, they raid a GUN Base, where with the assistance of Abraham Towers - they succeed in securing a Shuttle for Shadow. Rouge presents the intel but Abraham displeased, scolds Rouge for leading the attack and failing to talk Shadow down with Rouge reminding him there's only one person who's ever been able to talk Shadow down.</li>
+					<li>Abraham knowing who she speaks of laments the loss of the woman he once saw as an older sister - Maria Robotnik. Out in space Shadow is left to lament what could've been had He and Maria made it to earth as visions flash in his head - Shadow snaps himself out of it reinforcing his focus on the mission at hand.</li>
+					<li>Meanwhile aboard the ARK - a familiar foe senses Shadow's approach awaiting his arrival. </li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC X SHADOW GENERATIONS: MODERN STORY--> 
+		<div class="container left" id="sxsg_ms_sh">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/1/16/RushSonic.png/revision/latest/scale-to-width-down/1000?cb=20230731214700" width = "97px" height = "171px"/><img src ="https://cdn2.steamgriddb.com/logo_thumb/70bf54530cab6be46acaf7d324e2ed42.png" width = "280px"/><img src ="https://static.wikia.nocookie.net/sonic/images/d/d5/Sonic_Art_Assets_DVD_-_Shadow_The_Hedgehog_-_3.png/revision/latest/scale-to-width-down/1000?cb=20230731211026" width = "124px" style="transform: scaleX(-1);"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 119px;">
+						<h3>Birthdays and Bittersweet Reunions</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/1/1f/SonicXShadowGenerationsAmyCupcakes.jpg" width = "270px"/><img src = "https://static.wikia.nocookie.net/sonic/images/2/23/ShadowGenerationsPartingWays.jpg" width = "270px"/>
+					</div>
+				<h3>Sonic</h3>
+				<ul>
+					<li></li>
+				</ul>
+				<h3>Shadow</h3>
+				<ul>
+					<li>The creator of this timeline has not played Shadow Generations and would like to experience it for themselves before writing this portion - (mostly) free of spoilers.</li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC FREE RIDERS--> 
+		<div class="container right" id = "sfrdrs">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/508a37f0ac8738a76c680af8b4c512b4.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 29px;">
+						<h3>Race Data, Copied!</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/c/c0/Screenlg1.jpg/revision/latest?cb=20110424153025" width = "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: HALLOWEENFEST SONIC LOST WORLD--> 
+		<div class="container left" id="hf_slw">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://www.pngkit.com/png/full/268-2688508_halloween-comicfest-logo-halloween-comic-fest-2017.png" width = "237px"/><br/><img src ="https://cdn2.steamgriddb.com/logo_thumb/a47ad724599e11d59272b02d08d0dbd7.png" width = "337px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 129px;">
+						<h3>Dr. Eggman and the Zeti</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/8/86/Sonic_Halloween_cover_2.jpg" width = "40%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC LOST WORLD--> 
+		<div class="container right" id="slw">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo_thumb/a47ad724599e11d59272b02d08d0dbd7.png" width = "337px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3>Lost Hex, Deadly Six</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/a/ae/Deadly_Six_Attacking.png" width = "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC PRIME--> 
+		<div class="container left" id = "sprme">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://static.wikia.nocookie.net/sonic/images/9/9b/SonicPrimeLogoEN.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>Into the Shatterverse.</h3>
+						<img src="https://static.wikia.nocookie.net/sonic/images/1/19/Sonic_Prime_Sonic_%26_Friends.jpg" width ="420px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: TEAM SONIC RACING--> 
+		<div class="container right" id= "tsr">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo_thumb/88c040adb393832c87914347cc2afc3f.png" width = "337px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3 style="font-size:99%">Dodon Pa gives Green Light - Ride! Ultimate Energy Engine Test.</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/0/0a/Dodon_Pa.jpeg" width = "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC FORCES: PREQUEL COMICS--> 
+		<div class="container left" id="sfmot_roi">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_sonicforcesmomentoftruth.png" width = "290px"/><h4>(Moment of Truth - Rise of Infinite)</h4></div>
+				</div>
+					<div style ="text-align:center; margin-top: 179px;">
+						<h3>Return of the Phantom Ruby!</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/c/c9/SFMOTCover.jpg" width= "30%"/><img src ="https://static.wikia.nocookie.net/sonic/images/7/77/SFRoIcover.jpg" width= "30%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC FORCES: EPISODE SHADOW--> 
+		<div class="container right" id = "sf_esh">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_sonicforcesepisodeshadow.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 139px;">
+						<h3>Trapped in the Shadows of Virtual Reality</h3>
+						<img src ="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2017/09/shadow-1021449.jpg" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC FORCES--> 
+		<div class="container left" id = "sf_ms">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/30f7294e5c237c738e35a949f8e3f6fa.png" width = "290px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 139px;">
+						<h3>The War to Take Back the Planet</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/0/06/SFSTORY26.png" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: IDW SONIC THE HEDGEHOG: METAL VIRUS SAGA--> 
+		<div class="container right" id = "sf_ms">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://i0.wp.com/www.comicsbeat.com/wp-content/uploads/2020/09/Copy-of-IDW-Logo-1.png?resize=696%2C246&ssl=1" width = "100px"/><br/><img src ="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sonic_The_Hedgehog.svg" width = "250px"/><h3>Metal Virus Saga<br/>(Issues 1 - 29)</h3></div>
+				</div>
+					<div style ="text-align:center; margin-top: 149px;">
+						<h3>From War to Pandemic</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/3/34/Sonic_Cover_A.jpg/revision/latest/scale-to-width-down/1000?cb=20180330202618" width= "40%"/><img src ="https://static.wikia.nocookie.net/sonic/images/2/2b/IDW29CoverA.jpg/revision/latest/scale-to-width-down/1000?cb=20200723085023" width= "40%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC CHANNEL--> 
+		<div class="container left" id = "sch_cs">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://static.wikia.nocookie.net/sonic/images/e/e9/Sonic_Channel_logo.svg" width = "170px"/><h3>Cover Stories<br/>(Sonic x Tails - Super Sonic x Dr. Eggman)</h3></div>
+				</div>
+					<div style ="text-align:center; margin-top: 69px;">
+						<h3>Restoring the Emeralds</h3>
+						<img src = "https://static.wikia.nocookie.net/sonic/images/0/0f/Sonic_Channel_2021_01.png" width = "260px"/><img src = "https://static.wikia.nocookie.net/sonic/images/3/36/Sonic_Channel_2021_12.png" width = "260px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: IDW SONIC THE HEDGEHOG: CURRENT-->
+		<div class="container right" id = "sch_cs">
+			<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://i0.wp.com/www.comicsbeat.com/wp-content/uploads/2020/09/Copy-of-IDW-Logo-1.png?resize=696%2C246&ssl=1" width = "100px"/><br/><img src ="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sonic_The_Hedgehog.svg" width = "250px"/><h3>Current Issues<br/>(Issues 30 - 79)</h3></div>
+				</div>
+					<div style ="text-align:center; margin-top: 159px;">
+						<h3>Road to Restoration</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/8/80/IDW30CoverA.jpg/revision/latest/scale-to-width-down/1000?cb=20200819174212" width= "30%"/><img src ="https://static.wikia.nocookie.net/sonic/images/1/1f/IDW_79_Cover_A.png/revision/latest?cb=20250225225334" width= "29.6%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+	<!-- DIV: SONIC FRONTIERS PROLOGUE: DIVERGENCE--> 
+	<div class="container left" id="sftrs_dve">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_sonicfrontiersdivergence.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>Echidna Trapped in Cyber Space</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/c/c0/SFPD_5-02.png" width= "440px"/>
+					</div>
+				<ul>	
+					<li></li>
+				</ul>
+		</div>
+	</div>
+<!-- DIV: SONIC FRONTIERS PROLOGUE: CONVERGENCE--> 
+	<div class="container right" id ="sftrs_cve">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="images/logos/l_sonicfrontiersconvergence.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>Onwards to Starfall Islands!</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/c/c1/PrologueConvergencePart1.jpg" width= "40%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+<!-- DIV: SONIC FRONTIERS--> 
+	<div class="container left" id="sftrs">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo_thumb/1b2a9cbe668ee19dccb760a76e587136.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>The End is Freed, Cyber Space Deactivated.</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/1/12/SonicFrontiers_FinalHorizonUpdate%281%29.jpg" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+<!-- DIV: THE MURDER OF SONIC THE HEDGEHOG--> 
+	<div class="container right" id="tmosth">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo_thumb/a2a54b1f4d576fb949cd5e6a41b389e1.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 109px;">
+						<h3>Murder on the Mirage Express</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/2/2a/The_Murder_of_Sonic_Sonic_is_dead.png" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+<!-- DIV: SONIC DREAM TEAM--> 
+	<div class="container left" id="sdt">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo_thumb/121384606c6df8f80f1ba8a978657fce.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 129px;">
+						<h3>Dreamscapes and the Reverie</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/0/0b/SDTgameimage6.png" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+</div><br/><br/><br/><br/><br/><br/>
+<!-- DIV: SILVER FUTURES ERA-->
+<div class ="silverfutures_timeline timeline" style = "height: auto; top: -120px;">
+	<div class = "himg" style = "text-align: center; z-index: 1"><img src ="images/eras/h_silverfuturesera.png"/></div>
+	<!-- DIV: SONIC 06'S FUTURE--> 
+	<div class="container left" id = "s06_future">
+		<div class="content" style = "opacity: 0.8">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/f36d576ded86c313dce14fa4b8e6c0d4.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 39px;">
+						<h3>The Ruined World of the Future</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/d/d4/Chara03_01.jpg/revision/latest?cb=20101021234520" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+	<!-- DIV: SONIC RIVALS' FUTURE--> 
+	<!--<div class="container right" id = "srvls_future">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/ba61ab7dab67e0845c2e530ba9fd5c2c.png" width = "250px"/><h4>Card-tastrophic Future</h4></div>
+				</div><br/><br/><br/><br/><br/><br/>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>-->
+	<!-- DIV: SONIC RIVALS 2's FUTURE--> 
+	<div class="container right" id = "srvls2_future">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src = "https://cdn2.steamgriddb.com/logo_thumb/55e0e14567b396c814a22eee053d34cc.png" width = "250px"/><h4></h4></div>
+				</div>
+					<div style ="text-align:center; margin-top: 79px;">
+						<h3>Chaotic Infernos</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/9/94/Sonic_Rivals_2_-_Chaotic_Inferno_Zone_Promo_02.jpg" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+	<!-- DIV: SONIC COLORS's FUTURE--> 
+	<div class="container left" id = "sc_future">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo_thumb/d81a50cdc25b886525ec3e57015d7e3d.png" width = "250px"/><h4>Future of Blue Skies</h4></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3>Blue Skies</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/a/a3/Silver_%28Sonic_Colors_DS%29.png" width= "40%"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+	<!-- DIV: SONIC FORCES'FUTURE--> 
+	<div class="container right" id = "sf_future">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://cdn2.steamgriddb.com/logo/30f7294e5c237c738e35a949f8e3f6fa.png" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 99px;">
+						<h3>Phantom Illusions</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/1/1f/SFSTORY27.png" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+	<!-- DIV: IDW SONIC FUTURE--> 
+	<div class="container left" id = "idw_future">
+		<div class="content">
+				<div id="container4" class="iheadder">
+					 <div id="logo" style="text-align: center"><img src ="https://i0.wp.com/www.comicsbeat.com/wp-content/uploads/2020/09/Copy-of-IDW-Logo-1.png?resize=696%2C246&ssl=1" width = "100px"/><br/><img src ="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sonic_The_Hedgehog.svg" width = "250px"/></div>
+				</div>
+					<div style ="text-align:center; margin-top: 79px;">
+						<h3>Post-Metal Virus</h3>
+						<img src ="https://static.wikia.nocookie.net/sonic/images/b/be/SilverFutureIDW_%28Good_Future_ver%29.png/revision/latest/scale-to-width-down/1000?cb=20200916111143" width= "440px"/>
+					</div>
+				<ul>
+					<li></li>
+				</ul>
+		</div>
+	</div>
+</div>

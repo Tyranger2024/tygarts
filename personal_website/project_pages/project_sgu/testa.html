@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonic Timeline</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+        }
+        /* Sidebar styles */
+        .sidebar {
+            width: 250px;
+            height: 100vh;
+            background-color: #0078D7;
+            color: white;
+            padding: 20px;
+            position: fixed;
+            left: -250px; /* Hidden initially */
+            transition: 0.3s;
+        }
+        .sidebar h2 {
+            margin: 0 0 15px;
+        }
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            margin: 10px 0;
+        }
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 8px;
+            transition: 0.3s;
+        }
+        .sidebar a:hover {
+            background-color: #005a9e;
+        }
+        /* Toggle button styles */
+        .toggle-btn {
+            position: fixed;
+            left: 0;
+            top: 10px;
+            width: 40px;
+            height: 40px;
+            background-color: #0078D7;
+            color: white;
+            border: none;
+            cursor: pointer;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            transition: 0.3s;
+            border-radius: 5px;
+        }
+        .toggle-btn:hover {
+            background-color: #005a9e;
+        }
+        /* Timeline content */
+        .content {
+            margin-left: 20px;
+            padding: 20px;
+            flex-grow: 1;
+        }
+        .timeline-section {
+            padding: 10px;
+            margin-top: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <div class="sidebar" id="sidebar">
+        <h2>Sonic Timeline</h2>
+        <ul>
+            <li><a href="#sonic-origins">📅 Sonic Comic Origins</a></li>
+            <li><a href="#sonic-1991">🔵 Sonic the Hedgehog (1991)</a></li>
+            <li><a href="#sonic-forces">🚀 Sonic Forces (2017)</a></li>
+            <li><a href="#sonic-frontiers">🌌 Sonic Frontiers (2022)</a></li>
+        </ul>
+    </div>
+
+    <!-- Toggle Button -->
+    <button class="toggle-btn" id="toggle-btn" onclick="toggleSidebar()">☰</button>
+
+    <!-- Timeline Content -->
+    <div class="content">
+        <h1>Sonic's Timeline</h1>
+
+        <div id="sonic-origins" class="timeline-section">
+            <h3>Sonic Comic Origins</h3>
+            <p>Details Sonic's early life and the rise of the Freedom Fighters.</p>
+        </div>
+        <div id="sonic-1991" class="timeline-section">
+            <h3>Sonic the Hedgehog (1991)</h3>
+            <p>Sonic fights Robotnik for the first time, rescuing South Island.</p>
+        </div>
+        <div id="sonic-forces" class="timeline-section">
+            <h3>Sonic Forces (2017)</h3>
+            <p>The Resistance rises against Eggman, with Nicky playing a vital role.</p>
+        </div>
+        <div id="sonic-frontiers" class="timeline-section">
+            <h3>Sonic Frontiers (2022)</h3>
+            <p>Dimensional shifts and Chaos Unification expand Sonic's universe.</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleSidebar() {
+            let sidebar = document.getElementById("sidebar");
+            let toggleBtn = document.getElementById("toggle-btn");
+
+            if (sidebar.style.left === "-250px") {
+                sidebar.style.left = "0";
+                toggleBtn.innerHTML = "✖"; // Change to close button
+            } else {
+                sidebar.style.left = "-250px";
+                toggleBtn.innerHTML = "☰"; // Back to hamburger menu
+            }
+        }
+    </script>
+
+</body>
+</html>
+<div style="font-size:30px; color: white; cursor:pointerl;" height = "48px" onclick="openNav()">&#9776;</div>
+			<div id="mySidenav" class="sidenav prevent-select">
+			  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+				<h3 style="color: 818181;">Pre-History Era</h3>
+				  <a href="#bot_ooce">Beginning Of Time</a>
+				  <a href="#tg&tet">The Gizoid and The Echidna Tribe</a>
+				  <a href="#ba_dsx">The Black Arms and Deadly Six</a>
+				  <a href="#b_pma">Births: Professor Pickle, Maria Robotnik, Abraham Towers</a>
+				  <a href="#pjsh">Project Shadow</a>
+				  <a href="#b_many">Births: Many</a>
+				  <a href="#slrs_pj">Solaris Project (ERASED)</a>
+				<h2 style="color: 818181;">Classic Era</h2>
+				  <a href="#s1_16">Sonic the Hedgehog (16-Bit)</a>
+				  <a href="#scd">Sonic the Hedgehog CD</a>
+				  <a href="#s2_16">Sonic the Hedgehog 2 (16-Bit)</a>
+				  <a href="#s3_pl">Sonic the Hedgehog 3 & Knuckles (Prologue)</a>
+				  <a href="#s3_st">Sonic the Hedgehog 3 & Knuckles (Sonic & Tails)</a>
+				  <a href="#s3_k">Sonic the Hedgehog 3 & Knuckles (Knuckles)</a>
+				  <a href="#ssb">Sonic Spinball</a>
+				  <a href="#s3D_fi">Sonic 3D Blast: Flickies Island</a>
+				  <a href="#sonic_r">Sonic R</a>
+				  <a href="#ssa">SegaSonic The Hedgehog</a>
+				  <a href="#kchx">Knuckles Chaotix</a>
+				  <a href="#s1_8">Sonic the Hedgehog (8-Bit)</a>
+				  <a href="#s2_8">Sonic the Hedgehog 2 (8-Bit)</a>
+				  <a href="#s2_8">Sonic the Hedgehog 2 (8-Bit)</a>
+				  <a href="#scho">Sonic Chaos</a>
+				  <a href="#stt">Sonic Triple Trouble</a>
+				  <a href="#slb_tsp">Sonic Labyrinth/Tails Skypatrol</a>
+				  <a href="#sb">Sonic Blast</a>
+				  <a href="#sd1">Sonic Drift</a>
+				  <a href="#sd2">Sonic Drift 2</a>
+				  <a href="#stfr">Sonic The Fighters</a>
+				  <a href="#sxsg_classic">Sonic X Shadow Generations (Classic Story)</a>
+				  <a href="#sm">Sonic Mania</a>
+				  <a href="#sf_classic">Sonic Forces (Classic Story)</a>
+				  <a href="#sma_smp">Sonic Mania Plus/Sonic Mania Adventures</a>
+				  <a href="#s30th">Sonic the Hedgehog: 30th Anniversary</a>
+				  <a href="#s_t30th">Sonic the Hedgehog: Tails 30th Anniversary</a>
+				  <a href="#s_a30th">Sonic the Hedgehog: Amy 30th Anniversary</a>
+				  <a href="#s_k30th">Sonic the Hedgehog: Knuckles 30th Anniversary</a>
+				  <a href="#s_fth">Sonic the Hedgehog: Fang the Hunter</a>
+				  <a href="#ssstrs_fbb">Sonic Superstars: Fang's Big Break!</a>
+				  <a href="#ssstrs_tot">Sonic Superstars: Trio of Trouble!</a>
+				  <a href="#s_sstrs">Sonic Superstars</a>
+				<h2 style="color: 818181;">Adventure Era</h2>
+				  <a href="#s4e1">Sonic The Hedgehog 4: Episode I</a>
+				  <a href="#s4eM">Sonic The Hedgehog 4: Episode Metal</a>
+				  <a href="#s4e2">Sonic The Hedgehog 4: Episode II</a>
+				  <a href="#sa1">Sonic Adventure</a>
+				  <a href="#sadv">Sonic Advance</a>
+				  <a href="#sa2">Sonic Adventure 2</a>
+				  <a href="#sadv2">Sonic Advance 2</a>
+				  <a href="#shros">Sonic Heroes</a>
+				  <a href="#shth">Shadow the Hedgehog</a>
+				  <a href="#sbtle">Sonic Battle</a>
+				  <a href="#sadv3">Sonic Advance 3</a>
+				  <a href="#sprme">Sonic Prime</a>
+				  <a href="#srdrs">Sonic Riders</a>
+				  <a href="#s06">Sonic the Hedgehog (2006)(ERASED)</a>
+				  <a href="#srvls">Sonic Rivals</a>
+				  <a href="#srsh">Sonic Rush</a>
+				  <a href="#srvls2">Sonic Rivals 2</a>
+				  <a href="#sradv">Sonic Rush Adventure</a>
+				  <a href="#satsr">Sonic and the Secret Rings</a>
+				  <a href="#suls_now">Sonic Unleashed/Sonic Night of the Werehog</a>
+				  <a href="#satbk">Sonic and the Black Knight</a>
+				  <a href="#sfrdrs">Sonic Free Riders</a>
+				<p>Modern Era</p>
+					<a href="#scwoi_epp">Sonic Colors Ultimate: Whisper of Invasion/Egg Planet Park</a>
+					<a href="#scrow">Sonic Colors: Rise of the Wisps</a>
+					<a href="#scu_ds">Sonic Colors Ultimate/Sonic Colors DS</a>
+					<a href="#sxsg_db">Sonic X Shadow Generations: Dark Begginnings</a>
+					<a href="#sxsg_ms_sh">Sonic X Shadow Generations (Modern Sonic & Shadow)</a>
+					<a href="#hf_slw">Halloweenfest Sonic Lost World</a>
+					<a href="#slw">Sonic Lost World</a>
+					<a href="#tsr">Team Sonic Racing</a>
+					<a href="#sfmot_roi">Sonic Forces: Moment of Truth - Rise of Infinite</a>
+					<a href="#sf_esh">Sonic Forces: Episode Shadow</a>
+					<a href="#sf_ms">Sonic Forces (Modern Sonic Story)</a>
+					<a href="#sch_cs">Sonic Channel: Sonic & Tails - Super Sonic & Dr. Eggman</a>
+					<a href="#sftrs_dve">Sonic Frontiers Prologue: Divergence</a>
+					<a href="#sftrs_cve">Sonic Frontiers Prologue: Convergence</a>
+					<a href="#sftrs">Sonic Frontiers</a>
+					<a href="#tmosth">The Murder of Sonic The Hedgehog</a>
+					<a href="#dt">Sonic Dream Team</a>
+				<p>Silver Futures Era</p>
+					<a href="#s06_future">Sonic the Hedgehog (2006): Future</a>
+					<a href="#srvls_future">Sonic Rivals: Future</a>
+					<a href="#srvls2_future">Sonic Rivals 2: Future</a>
+					<a href="#sc_future">Sonic Colors: Future</a>
+					<a href="#sf_future">Sonic Forces: Future</a>
+					<a href="#idw_future">IDW Sonic the Hedgehog: Future</a>
+			</div>
